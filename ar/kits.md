@@ -119,9 +119,9 @@
 
 بعد  (Spawn)، وإذا استوفيت الشروط المطلوبة، يمكنك طلب كت (Kit) جديد، سواء كان من الكتات الأساسية (Standard Kits) أو الكتات المتخصصة (Specialist Kits)، من صندوق إمدادات (Supply Crate) تابع لفريقك أو من مركبة مدرعة تابعة للحلفاء. وعادةً، يتطلب طلب الكت استيفاء الشروط الثلاثة التالية:
 
-* <span dir="ltr">**Permission (الموافقة)**</span>: يجب أن تحصل على موافقة قائد الفرقة (Squad Leader)، فهو من يقرر من يحق له الحصول على كل كت (Kit)..
-* **Location**. You are in the right place to request a kit - next to an allied supply crate or armored vehicle.
-* **Required Numbers**. You are part of a squad with the required minimum number of members.
+* <span dir="ltr">**(Permission) الموافقة**</span>: يجب أن تحصل على موافقة قائد الفرقة (Squad Leader)، فهو من يقرر من يحق له الحصول على كل كت (Kit)..
+* **(Location) الموقع**: الموقع (Location): يجب أن تكون بجوار صندوق إمدادات تابع لفريقك أو مركبة مدرعة تابعة للحلفاء حتى تتمكن من طلب الكت (Kit).
+* **(Required Numbers) العدد المطلوب**: يجب أن تضم فرقتك (Squad) الحد الأدنى المطلوب من الأفراد حتى تتمكن من طلب الكت (Kit).
 
 The following actions can temporarily restrict your right to request kits:
 
