@@ -123,8 +123,7 @@
 * **(Location) الموقع**: يجب أن تكون بجوار صندوق إمدادات تابع لفريقك أو مركبة مدرعة تابعة للحلفاء حتى تتمكن من طلب الكت (Kit).
 * **(Required Numbers) العدد المطلوب**: يجب أن تضم فرقتك (Squad) الحد الأدنى المطلوب من الأفراد حتى تتمكن من طلب الكت (Kit).
 
-The following actions can temporarily restrict your right to request kits:
-
+قد تؤدي الإجراءات التالية إلى تقييد قدرتك على طلب الكتات (Kits) بشكل مؤقت:
 | Condition | Time Penalty |
 | --- | --- |
 | You either spawn, or request and get granted, a limited kit | Unable to request a kit for 2 minutes |
