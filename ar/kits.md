@@ -114,8 +114,7 @@
 د هاتان الكتتان من الكتات القليلة التي لا تخضع لأي قيود، سواء من حيث الحد الأدنى لعدد أفراد الفرقة (Squad) المطلوب لطلبها، أو من حيث عدد الكتات التي يمكن إصدارها داخل الفرقة. وباعتبارهما من الكتات المتخصصة (Specialist Kits)، فإن تسليحهما محدود للغاية؛ إذ لا تمنح سوى قلة من الفصائل أفراد الـ Crewman بنادق، بينما يقتصر تسليح الـ Pilot على المسدسات فقط. ولأنهما من الكتات المتخصصة، فلا يمكن الظهور (Spawn) بهما مباشرة، ويجب طلبهما بالطريقة المعتادة \(see [below](kits.md#kit-request)\).ومع ذلك، لا يوجد أي حد أقصى لعدد هذه الكتات التي يمكن أن تكون مستخدمة في الفريق (Team) في الوقت نفسه، ولذلك يمكن اعتبارهما كتات غير محدودة.
 
 * ![](../assets/kit_icons/kit_pilot_outline.png)<span dir="ltr">**Pilot**</span>: يُعد الـ Pilot الكت الوحيد القادر على تشغيل المروحيات والطائرات ثابتة الجناح. ويُجهَّز بمسدس، ومظلة، وقنبلة دخانية للإشارة. ولا تحاول قيادة أي طائرة دون امتلاك الخبرة الكافية.
-* ![](../assets/kit_icons/kit_crewman_outline.png)**Crewman**. It is the only kit capable of operating armored vehicles. The crewman is equipped with a compact weapon for self-defense and with binoculars to study the battlefield. Normally, both the driver and the gunner in an armored vehicle need the crewman kit.
-
+* ![](../assets/kit_icons/kit_crewman_outline.png)**Crewman**: يُعد الـ Crewman الكت الوحيد القادر على تشغيل المركبات المدرعة. ويُجهَّز بسلاحٍ خفيف للدفاع عن النفس، بالإضافة إلى منظار ميداني لمراقبة ساحة المعركة. وفي العادة، يجب أن يمتلك كلٌ من السائق والرامي في المركبة المدرعة كت الـ Crewman.
 ## _Kit Request Procedure_ {#kit-request}
 
 Once spawned, and if certain conditions are met, it is possible to request a new kit \(both Standard or Specialist\) from an allied supply crate or armored vehicle. Usually, in order to request a kit, these 3 conditions need to be met:
