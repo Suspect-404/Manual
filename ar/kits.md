@@ -117,7 +117,7 @@
 * ![](../assets/kit_icons/kit_crewman_outline.png)**Crewman**: يُعد الـ Crewman الكت الوحيد القادر على تشغيل المركبات المدرعة. ويُجهَّز بسلاحٍ خفيف للدفاع عن النفس، بالإضافة إلى منظار ميداني لمراقبة ساحة المعركة. وفي العادة، يجب أن يمتلك كلٌ من السائق والرامي في المركبة المدرعة كت الـ Crewman.
 ## _Kit Request Procedure_ - إجراءات طلب الكت
 
-Once spawned, and if certain conditions are met, it is possible to request a new kit \(both Standard or Specialist\) from an allied supply crate or armored vehicle. Usually, in order to request a kit, these 3 conditions need to be met:
+بعد  (Spawn)، وإذا استوفيت الشروط المطلوبة، يمكنك طلب كت (Kit) جديد، سواء كان من الكتات الأساسية (Standard Kits) أو الكتات المتخصصة (Specialist Kits)، من صندوق إمدادات (Supply Crate) تابع لفريقك أو من مركبة مدرعة تابعة للحلفاء. وعادةً، يتطلب طلب الكت استيفاء الشروط الثلاثة التالية:
 
 * **Permission**. You have the Squad Leader's permission. He gets to decide who gets what.
 * **Location**. You are in the right place to request a kit - next to an allied supply crate or armored vehicle.
