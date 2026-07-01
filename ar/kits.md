@@ -7,16 +7,15 @@
 
  [إجراءات طلب الـ Kit](kits.md#kit-request).
 
-## _Where to start_ {#where-to-start}
+## _Where to start_ - من أين تبدأ
 
-As a new player, you should always join an infantry squad and take the **Rifleman** kit. The Rifleman represents the basic infantry grunt and can be used without restrictions by as many people as desired in a squad/team. All other kits are associated to more specialised roles and have rigid restrictions regarding the number of them that can be simultaneously used in a squad/team.
+بصفتك لاعبًا جديدًا، يُنصح دائمًا بالانضمام إلى Squad مشاة واختيار Kit الـ Rifleman. يُمثل Rifleman جندي المشاة الأساسي، ويمكن لأي عدد من اللاعبين داخل الـ Squad أو الفريق استخدام هذا الـ Kit دون أي قيود. أما جميع الـ Kits الأخرى، فهي مخصصة لأدوار أكثر تخصصًا، وتخضع لقيود صارمة تحدد عدد اللاعبين المسموح لهم باستخدامها في الوقت نفسه داخل الـ Squad أو الفريق.
 
-Due to these restrictions, and in order to avoid negatively affecting your team performance by misusing a limited kit, it is **strongly recommended that you start playing with the Rifleman kit**. As you get more experienced and learn the basics of infantry gameplay, if you feel up to the task, you can ask your Squad Leader to assign you a different role. In any case, **you should ALWAYS ask your Squad Leader before changing kits**.
+نظرًا لهذه القيود، ولتجنب التأثير سلبًا على أداء فريقك نتيجة إساءة استخدام أحد الـ Kits المحدودة، يُنصح بشدة أن تبدأ اللعب باستخدام Kit الـ Rifleman. ومع اكتسابك المزيد من الخبرة وتعلم أساسيات قتال المشاة، وإذا شعرت بأنك مستعد لتحمل مسؤولية دور آخر، فيمكنك أن تطلب من Squad Leader إسناد دور مختلف إليك. وفي جميع الأحوال، احرص دائمًا على استشارة الـ Squad Leader قبل تغيير الـ Kit.
 
-## _Standard Kits_ {#standard_kits}
+## _Standard Kits_ - الكتات الأساسية
 
-The **Standard Kits** are the 7 kits shown in the spawn screen and they represent the roles that typically make an infantry squad. In the following table you can see an overview of the 7 standard kits as well as information regarding how many kits of this type can be in a single squad and how many people need to be in the squad in order to be able to spawn with them.
-
+تتكون الـ Kits الأساسية من 7 Kits تظهر في شاشة الـ Spawn، وتمثل الأدوار الأساسية التي تتألف منها Squad المشاة. ويوضح الجدول التالي نظرة عامة على هذه الـ Kits السبع، بالإضافة إلى عدد الـ Kits المسموح بها من كل نوع داخل الـ Squad الواحد، والحد الأدنى لعدد أفراد الـ Squad المطلوب حتى يتمكن اللاعبون من استخدام كل Kit عند الـ Spawn.
 | Kit | Limitation per squad | Minimum Squad Size |
 | --- | --- | --- |
 | **Officer** | 1 | 2 |
