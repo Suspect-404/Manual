@@ -49,7 +49,7 @@
 
 بالإضافة إلى الكتات الأساسية (Standard Kits) المذكورة سابقًا، تضم Project Reality مجموعة واسعة من الكتات المتخصصة (Specialist Kits) المصممة لأداء مهام متخصصة للغاية. ومن بين هذه الكتات: Heavy Anti-Tank (HAT)، وCombat Engineer، وMarksman، وSniper، وAnti-Air Rifleman (AA)، بالإضافة إلى غيرها.
 
-It is not possible to directly spawn with one of these highly restricted, specialised kits. In order to get them, a player needs to request them from allied supply crates or vehicles following a procedure described [below](kits.md#kit-request). Furthermore, depending on the number of players in the team, each one of **these kits are limited to a specific number of them per team**. In the following table, these restrictions are summarized:
+لا يمكن ال (Spawn) مباشرةً باستخدام أيٍ من هذه الكتات المتخصصة، نظرًا لأنها تخضع لقيود صارمة. وللحصول على أحدها، يجب على اللاعب طلبه من صناديق الإمدادات (Supply Crates) أو المركبات التابعة لفريقه، وذلك باتباع إجراءات طلب الكت (Kit Request Procedure) الموضحة أدناه.[below](kits.md#kit-request). بالإضافة إلى ذلك، يخضع كل نوع من هذه الكتات لحدٍ أقصى لعدد الكتات المسموح بها على مستوى الفريق (Team)، ويختلف هذا الحد بحسب عدد اللاعبين في الفريق. ويوضح الجدول التالي هذه القيود:
 
 | Kit | 1-7 Players | 8-15 Players | 16-23 Players | 24-31 Players | 32- 50+ Players |
 | --- | --- | --- | --- | --- | --- |
