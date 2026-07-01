@@ -90,8 +90,8 @@
 
 تتميز بعض الفصائل غير النظامية، و/أو طور التمرد (Insurgency)، بمجموعة من الكتات الخاصة المصممة لأساليب القتال غير المتكافئ (Asymmetric Warfare). وغالبًا ما تكون كتات المتمردين أقل تطورًا من حيث القدرات مقارنةً بالمعدات العسكرية النظامية، لذلك تُزوَّد بتشكيلة متنوعة من الأسلحة النارية، إلى جانب مجموعة من المعدات البدائية والمرتجلة، للمساعدة في تعويض هذا الفارق في القدرات. ويُعد تمرد العراق (Iraqi Insurgency) مثالًا بارزًا على ذلك، إذ تختلف تشكيلة أسلحة المشاة الخفيفة لديه اختلافًا كبيرًا عن جميع الفصائل الأخرى، مما يستدعي إلقاء نظرة أكثر تفصيلًا عليها.
 
-**Iraqi Insurgent Spawn Screen Kits**
-* ![](../assets/kit_icons/kit_officer_outline.png)**Cell Leader**. The Insurgent version of the Officer Kit.
+**كتات شاشة الـ Spawn للمتمردين العراقيين**
+* ![](../assets/kit_icons/kit_officer_outline.png)<span dir="ltr">**Cell Leader**</span>: نسخة المتمردين من كت الـ Officer.
 * ![](../assets/kit_icons/kit_carbine_assault_outline.png) 
   ![](../assets/kit_icons/kit_battle_rifle_assault_outline.png) 
   ![](../assets/kit_icons/kit_insurgent_assault_outline.png) 
