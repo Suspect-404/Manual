@@ -74,7 +74,7 @@
 | **Sniper** | 3 |
 | **Heavy Anti-Tank** | 3 |
 
-Due to the highly restricted nature of these kits, it is **strongly recommended** that new and unexperienced players **DO NOT** use them. If they do, they risk wasting and losing these crucial team assets, leaving the team in a notable disadvantage. **Remember to ALWAYS ask your Squad Leader before taking any of these kits**.
+نظرًا للطبيعة شديدة التقييد لهذه الكتات، يُنصح بشدة اللاعبين الجدد وقليلي الخبرة بعدم استخدامها. فالاستخدام غير الصحيح لها قد يؤدي إلى إهدار هذه الموارد المهمة للفريق وفقدانها، مما يضع الفريق في موقف غير مواتٍ بشكل ملحوظ. وتذكّر دائمًا أن تطلب إذن قائد الفرقة (Squad Leader) قبل أخذ أيٍ من هذه الكتات.
 
 Here follows a more detailed description of each specialized kit:
 
