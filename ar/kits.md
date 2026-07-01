@@ -115,7 +115,7 @@
 
 * ![](../assets/kit_icons/kit_pilot_outline.png)<span dir="ltr">**Pilot**</span>: يُعد الـ Pilot الكت الوحيد القادر على تشغيل المروحيات والطائرات ثابتة الجناح. ويُجهَّز بمسدس، ومظلة، وقنبلة دخانية للإشارة. ولا تحاول قيادة أي طائرة دون امتلاك الخبرة الكافية.
 * ![](../assets/kit_icons/kit_crewman_outline.png)**Crewman**: يُعد الـ Crewman الكت الوحيد القادر على تشغيل المركبات المدرعة. ويُجهَّز بسلاحٍ خفيف للدفاع عن النفس، بالإضافة إلى منظار ميداني لمراقبة ساحة المعركة. وفي العادة، يجب أن يمتلك كلٌ من السائق والرامي في المركبة المدرعة كت الـ Crewman.
-## _Kit Request Procedure_ {#kit-request}
+## _Kit Request Procedure_ - إجراءات طلب الكت
 
 Once spawned, and if certain conditions are met, it is possible to request a new kit \(both Standard or Specialist\) from an allied supply crate or armored vehicle. Usually, in order to request a kit, these 3 conditions need to be met:
 
