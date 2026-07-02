@@ -124,7 +124,7 @@
 * **(Required Numbers) العدد المطلوب**: يجب أن تضم فرقتك (Squad) الحد الأدنى المطلوب من الأفراد حتى تتمكن من طلب الكت (Kit).
 
 قد تؤدي الإجراءات التالية إلى تقييد قدرتك على طلب الكتات (Kits) بشكل مؤقت:
-| Condition | Time Penalty |
+| الشروط | العقوبة الزمنية |
 | --- | --- |
 | You either spawn, or request and get granted, a limited kit | Unable to request a kit for 2 minutes |
 | You change squads | Blocked for +2 minutes |
