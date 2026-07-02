@@ -3,7 +3,7 @@
 ## _General Vehicle Information_ {#general-vehicle-information}
 
 * يمكن لأي جندي تشغيل المركبات الخفيفة، والشاحنات، والقوارب، ومعظم سيارات الجيب (باستثناء المدرعة منها). أما المركبات المدرعة والمروحيات والطائرات، فتتطلب استخدام كت مخصص لتشغيلها. ولن يتمكن اللاعب الذي لا يحمل الكت المناسب من قيادة المركبة أو استخدام أسلحتها. كما لا يمكنك دخول أو استخدام مركبات العدو.لتشغيل المركبات البرية المدرعة، يجب الحصول على كت الطاقم (Crewman)، بينما يتطلب تشغيل الطائرات والمروحيات كت الطيار (Pilot). ويمكن طلب كلا الكتين من المركبة نفسها أو من صندوق الإمدادات.
-* External views for vehicles have been removed. But for certain vehicles there are custom cameras, like the trucks which can watch behind them and the jeeps with their side mirrors\(**C**\).
+* لم يعد بالإمكان استخدام منظور الرؤية الخارجي للمركبات. ومع ذلك، زُوِّدت بعض المركبات بكاميرات خاصة، مثل الشاحنات التي توفر رؤية خلفية، وسيارات الجيب المزودة بمرايا جانبية يمكن استخدامها بالضغط على المفتاح (C).
 * You can **aim down the sights** of static and vehicle-mounted MGs by pressing the alternate fire key\(**Right Mouse Button**\).
 * Vehicle-mounted automatic weapons often have **overheating**. Watch the heat-HUD element on the lower right corner. ![](../assets/overheat.png)
 * Vehicle-mounted MGs use ammunition belts. They are in limited number and can be reloaded \(**default: R**\).
