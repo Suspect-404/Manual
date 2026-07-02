@@ -6,7 +6,7 @@
 * لم يعد بالإمكان استخدام منظور الرؤية الخارجي للمركبات. ومع ذلك، زُوِّدت بعض المركبات بكاميرات خاصة، مثل الشاحنات التي توفر رؤية خلفية، وسيارات الجيب المزودة بمرايا جانبية يمكن استخدامها بالضغط على المفتاح (C).
 * يمكنك التصويب باستخدام أجهزة التصويب الخاصة بالرشاشات الثابتة والرشاشات المثبتة على المركبات بالضغط على زر الإطلاق البديل (زر الفأرة الأيمن).
 * قد ترتفع حرارة الأسلحة الآلية المثبتة على المركبات عند الإطلاق المستمر. راقب مؤشر الحرارة الموجود في الزاوية السفلية اليمنى من الشاشة ![](../assets/overheat.png)
-* Vehicle-mounted MGs use ammunition belts. They are in limited number and can be reloaded \(**default: R**\).
+* تستخدم الرشاشات المثبتة على المركبات أحزمة ذخيرة ذات سعة محدودة، ويمكن إعادة تلقيمها بالضغط على المفتاح (R) افتراضيًا.
 * Vehicles can be **resupplied & repaired** at the supply depot. Or use the repair station that any logistics truck can deploy for quick repairs in the field. Aircraft and Helicopters are automatically repaired and rearmed at their spawn location.
 * Insurgents have **suicide vehicles** like an orange dumpster truck or small civilian cars packed with C4. You can detonate these with the alternative fire key\(**Right Click**\).
 * When exiting a moving ground vehicle you’ll take damage depending on its speed. You’ll be severely wounded if you exit a burning vehicle.
