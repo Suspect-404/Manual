@@ -150,10 +150,10 @@
 * **“You need to be close to a friendly SUPPLY CRATE or VEHICLE to request this kit” (يجب أن تكون بالقرب من صندوق إمدادات تابع لفريقك أو مركبة حتى تتمكن من طلب هذا الكت)**
 
 إذا لم تستوفِ فرقتك الحد الأدنى المطلوب من عدد الأفراد:
-* **“Unavailable due to squad limitations (غير متاح بسبب عدم استيفاء متطلبات الفرقة)”**
+* **“Unavailable due to squad limitations" (غير متاح بسبب عدم استيفاء متطلبات الفرقة)**
 
 إذا كانت جميع الكتات المسموح بها من هذا النوع قد مُنحت بالفعل لأفراد الفريق:
-* **“All of these kits have been issued (لم يعد أي كت من هذا النوع متاحًا)”**
+* **“All of these kits have been issued" (لم يعد أي كت من هذا النوع متاحًا)**
 
 Other possible reasons:
 
