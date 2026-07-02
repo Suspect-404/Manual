@@ -172,7 +172,7 @@
 ما عليك سوى اتباع الخطوات التالية:
 | خطوات إسقاط الكت |
 | --- |
-| 1. Press and hold down the **Secondary Radio key \(T\)** |
+| 1. ضغط مع الاستمرار على مفتاح الراديو الثانوي (T) حرف |
 | 2. Select the middle option of the _Commo Rose_ \(**REQUEST / DROP KIT**\) and **right-click** on it. This will drop your old kit below you, and you will wear an invisible Unarmed Kit. |
 
 Note that a kit on the ground will disappear after about 5 minutes so long as it has not been picked up in the interim. The eventually despawning kits with limited availability squad or team-wise become requestable from the squad‘s or team’s kit pool again when they disappear.   
