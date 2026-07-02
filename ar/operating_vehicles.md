@@ -10,10 +10,10 @@
 * يمكن إعادة تزويد المركبات بالذخيرة وإصلاحها في مستودع الإمدادات. كما يمكنك استخدام محطة الإصلاح التي تستطيع أي شاحنة لوجستية نشرها لإجراء إصلاحات سريعة في الميدان. أما الطائرات والمروحيات، فيُعاد إصلاحها وإعادة تسليحها تلقائيًا عند موقع ظهورها.
 * يمتلك المتمردون مركبات انتحارية، مثل شاحنة النفايات البرتقالية أو بعض السيارات المدنية الصغيرة المحملة بمتفجرات C4. ويمكن تفجيرها بالضغط على زر الإطلاق البديل (زر الفأرة الأيمن).
 * إذا غادرت مركبة برية وهي لا تزال تتحرك، فستتعرض لإصابة تعتمد شدتها على سرعة المركبة. أما إذا غادرت مركبة مشتعلة، فستُصاب إصابة بالغة.
-* When vehicles take a lot of damage they may become **disabled**: unable to move or traverse their turret until fully repaired. 
-* Vehicles that **fire wire-guided missiles** need to be stationary for about 7 seconds before they can fire their weapon.
-* Switching vehicle-weapons \(ammo type\) will usually cause a delay before you can fire.
-* You can use **Left CTRL+Mouse movement** to freelook when operating most vehicles such as helicopters, jets, jeeps, boats and trucks. APCs and IFVs do not have this feature as they use dedicated cameras.
+* عند تعرض المركبات لأضرار جسيمة، قد تصبح معطلة، فلا تتمكن من الحركة أو تدوير برجها حتى تُصلح بالكامل. 
+* يجب أن تبقى المركبات التي تطلق صواريخ موجهة سلكيًا ثابتة لمدة تقارب 7 ثوانٍ قبل أن تتمكن من إطلاق الصاروخ.
+* عند تبديل نوع ذخيرة سلاح المركبة، ستحتاج عادةً إلى الانتظار قليلًا قبل أن تتمكن من إطلاق النار.
+* يمكنك استخدام المفتاح Left Ctrl مع تحريك الفأرة للنظر بحرية أثناء تشغيل معظم المركبات، مثل المروحيات والطائرات النفاثة وسيارات الجيب والقوارب والشاحنات. أما ناقلات الجنود المدرعة (APCs) ومركبات المشاة القتالية (IFVs)، فلا تدعم هذه الميزة لأنها تستخدم كاميرات مخصصة.
 * On public servers \(not in local gamemodes\) you can quickly switch to the next available free seat in a vehicle by pressing **F8**.
 * When in a vehicle, you can see the information on the occupied seats in the bottom left of the the HUD. It shows only important crew seats as squared markers. This includes driver and gunner positions. Passenger seats do not have such markers and are shown as a seperate counter.
 * Drivers of APCs, IFVs and some transport vehicles can **deploy ammo boxes** \(500 ammo points\) by selecting them with Scroll Wheel and pressing the alternative fire key\(**Right Mouse**\).
