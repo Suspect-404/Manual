@@ -126,8 +126,8 @@
 قد تؤدي الإجراءات التالية إلى تقييد قدرتك على طلب الكتات (Kits) بشكل مؤقت:
 | الشرط | العقوبة الزمنية |
 | --- | --- |
-| You either spawn, or request and get granted, a limited kit | Unable to request a kit for 2 minutes |
-| You change squads | Blocked for +2 minutes |
+| تحصل على كت محدود، سواء عند الريسبون أو بعد طلبه والموافقة على طلبك  | لا يمكنك طلب أي كت لمدة دقيقتين |
+| تغيّر الفرقة (Squad) | تُضاف دقيقتان إلى مدة الحظر |
 | You kill a teammate \(teamkilling\) carrying a limited kit | Blocked for +3 minutes |
 | You spam several kit requests in a short time | Blocked for +30 seconds |
 | You kill a civilian violating the Rules of Engagement \(Insurgency\) | Blocked for +10 minutes |
