@@ -155,9 +155,9 @@
 إذا كانت جميع الكتات المسموح بها من هذا النوع قد مُنحت بالفعل لأفراد الفريق:
 * **“All of these kits have been issued" (لم يعد أي كت من هذا النوع متاحًا)**
 
-Other possible reasons:
+أسباب أخرى محتملة:
 
-* **“Unavailable for your forces”**
+* **“Unavailable for your forces” (غير متاح لقواتك/الفصيل)**
 * **“You can't get another limited kit so soon after your last”**
 * **“You are new to this squad, request again in a minute”**
 
