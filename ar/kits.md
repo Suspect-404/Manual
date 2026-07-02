@@ -129,7 +129,7 @@
 | تحصل على كت محدود، سواء عند الريسبون أو بعد طلبه والموافقة على طلبك  | لا يمكنك طلب أي كت لمدة دقيقتين |
 | تغيّر الفرقة (Squad) | تُضاف دقيقتان إلى مدة الحظر |
 | تقتل أحد زملائك في الفريق وكان يحمل كتًا محدودً | تُضاف 3 دقائق إلى مدة الحظر |
-| You spam several kit requests in a short time | Blocked for +30 seconds |
+| تُكرر إرسال طلبات الحصول على كت بشكل متتالٍ خلال فترة قصيرة | تُضاف 30 ثانية إلى مدة الحظر |
 | You kill a civilian violating the Rules of Engagement \(Insurgency\) | Blocked for +10 minutes |
 
 To request a kit a specific key sequence needs to be followed:
