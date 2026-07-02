@@ -142,7 +142,7 @@
 | 4. إذا استوفيت جميع الشروط، فسيتم الحصول على الكت المطلوب تلقائيًا، مع إسقاط الكت الذي تحمله حاليًا |
 إذا رُفض طلبك، فستظهر رسالة باللون الأصفر توضح سبب الرفض:
 
-If you requested the kit in the wrong location:
+إذا حاولت طلب الكت من موقع غير مناسب:
 
 * **“You need to be close to a friendly SUPPLY CRATE or APC to request this kit”**, OR
 * **“You need to be close to a friendly SUPPLY CRATE or VEHICLE to request this kit”**
