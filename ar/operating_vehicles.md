@@ -24,7 +24,7 @@
 علامة القاعدة الجوية خارج حدود الخريطة.
 {% endfigure %}
 
-## _Armored Vehicles_ {#armored-vehicles}
+## _المركبات المدرعة_ {#armored-vehicles}
 * Tanks and IFVs have separate driver & gunner seats. To use the gunner's position a driver or cupola gunner must be present. After switching to the gunner seat you must wait 30 seconds before you can aim the cannon \(AKA turret warm-up\).
 * The driver and gunner in a vehicle must be in the same squad.
 * Tank drivers and certain APC/IFVs have a **commander view mode** which provides a 360° view around the turret. This can be accessed by pressing 2.
