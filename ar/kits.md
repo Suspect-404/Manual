@@ -152,9 +152,8 @@
 إذا لم تستوفِ فرقتك الحد الأدنى المطلوب من عدد الأفراد:
 * **“Unavailable due to squad limitations (غير متاح بسبب عدم استيفاء متطلبات الفرقة)”**
 
-If all allowed kits have already been granted to the team:
-
-* **“All of these kits have been issued”**
+إذا كانت جميع الكتات المسموح بها من هذا النوع قد مُنحت بالفعل لأفراد الفريق:
+* **“All of these kits have been issued (لم يعد أي كت من هذا النوع متاحًا)”**
 
 Other possible reasons:
 
