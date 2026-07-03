@@ -75,10 +75,10 @@
 * للتحرك ببطء على المدرج، اترك قوة الدفع عند **الخمول (0%)**، ثم ادفع عصا التحكم (Joystick) إلى الأمام أو اضغط على مفتاح السهم لأعلى للتحرك ببطء إلى الأمام. وللرجوع إلى الخلف، اسحب عصا التحكم إلى الخلف أو اضغط على مفتاح السهم لأسفل. أما للانعطاف يمينًا ويسارًا، فاستخدم مفتاحي الدفة **(A و D)**.
 * الحد الأقصى لارتفاع الطائرة هو 10 كيلومترات.
 * **للإقلاع**، ادفع قوة الدفع إلى الحد الأقصى، ثم انتظر قليلًا حتى تبدأ الطائرة في التسارع. وعندما تقطع نحو ثلثي المدرج، ابدأ برفع مقدمة الطائرة برفق بسحب عصا التحكم إلى الخلف. ويمكنك تشغيل الحارق اللاحق (Afterburner) لزيادة قوة الدفع وتسريع الإقلاع عند الحاجة إذا لزم الأمر.
-* Most aircraft come equipped with a **cannon and several external weapons**. The primary fire key will shoot the currently selected weapon, such as cannons and missiles.
-* To **re-arm and repair** you do need to land the aircraft at your airbase and taxi to the “ramp” or on some very few maps, on the runway. It takes quite some time to rearm completely. On Carriers you can only reload on the “ramp” of the carrier, off the runway. This doesn't include the lifts.
-* Most fixed wing aircraft feature **ejection seats** when you press E. It will automatically deploy the parachute when below 750m. 
-* **Air-to-ground weapons** in single seat aircraft need an established laser lock to hit a target. The recommended procedure for an attack with them is explained below:
+* تأتي معظم الطائرات مزودة **بمدفع وعدة أسلحة خارجية**. ويُستخدم زر الإطلاق الأساسي لإطلاق السلاح المحدد حاليًا، سواء كان المدفع أو أحد الصواريخ.
+* **لإعادة تسليح الطائرة وإصلاحها**، يجب الهبوط بها في القاعدة الجوية، ثم قيادتها إلى ساحة الوقوف (Ramp)، وهي المنطقة المخصصة لوقوف وتجهيز الطائرات بجوار المدرج. وفي عدد قليل من الخرائط، يمكن إعادة التسلح والإصلاح على المدرج نفسه. وتستغرق عملية إعادة التسلح الكامل بعض الوقت.أما على حاملات الطائرات، فلا يمكن إعادة التسلح إلا في ساحة الوقوف الموجودة خارج المدرج، ولا يمكن إعادة التسلح أثناء الوقوف على منصات الرفع.
+* تحتوي معظم الطائرات النفاثة على **مقاعد قذف (Ejection Seats)**، وهي مقاعد تقذف الطيار خارج الطائرة في حالات الطوارئ. ويمكن استخدامها بالضغط على المفتاح E. وعند انخفاضك إلى أقل من 750 مترًا، تُفتح المظلة تلقائيًا. 
+* تتطلب **الأسلحة جو-أرض** في الطائرات التي يقودها طيار واحد قفلًا ليزريًا على الهدف لضمان إصابته. ويوضح الدليل أدناه الإجراء الموصى به لتنفيذ الهجوم باستخدام هذه الأسلحة:
   1. Ground troops find a suitable target for an air attack.
   2. The troops contact the pilot either directly through mumble/text chat and/or by placing a CAS marker. ![](../assets/marker.png)
   3. The pilot informs the ground troops of his approach using the **“ON THE WAY”** command from his main radio menu and/or through mumble/text chat.
