@@ -135,8 +135,8 @@
 * يبلغ هامش الخطأ في قياس المسافة بواسطة محدد المدى الليزري نحو ±5 أمتار، أي قد تزيد أو تنقص المسافة المقاسة بمقدار يصل إلى 5 أمتار.
 * تتذكر اللعبة آخر إعدادات التصويب التي استخدمها الرامي، حتى إذا غادر مقعد الرامي أو قُتل، وستظل هذه الإعدادات محفوظة عند العودة إلى المقعد.
 * حتى أثناء مرحلة تجهيز السلاح للإطلاق، يمكن للرامي استخدام محدد المدى الليزري أو ضبط مسافة التصويب يدويًا دون انتظار انتهاء هذه المرحلة.
-* The FCS on SPAAA \(Self-Propelled Anti-Aircraft Artillery\) vehicles is always active and does not require any additional input from the player.
-* When crewing an SPAAA with radar equipment, the FCS will display a circle indicating the correct target lead after aquiring a lock on the target. The enemy aircraft can deploy flares to break the lock, which removes the aiming circle temporarily.
+* في مركبات الدفاع الجوي المتحركة، يعمل نظام التحكم في إطلاق النيران تلقائيًا طوال الوقت، ولا يحتاج اللاعب إلى تشغيله.
+* عند استخدام مركبات الدفاع الجوي المزودة برادار، يظهر في نظام التصويب دائرة تحدد مكان التصويب الصحيح بعد تثبيت الهدف. ويمكن للطائرة المعادية استخدام الشعلات الحرارية لكسر التتبع، مما يؤدي إلى اختفاء دائرة التصويب مؤقتًا.
 
-### Fixed Wing Aircraft
-The FCS is not limited to ground vehicles, fixed wing aircraft have their own versions for \(automated\) firing solutions. As such, modern jets utilize Constantly Computed Impact Point \(CCIP\) which will show where bombs will land on the ground. Additionally ground attack jets will also utilize CCIP to show the impact of their main gun. Fighter jets supporting radar targeting will be able to lock onto aircraft with their guns to show a marker predicting where to aim and hit the target. This radar locking will also trigger the victims radar warning receivers and can be countered using flares.
+### الطائرات النفاثة
+نظام التحكم في إطلاق النيران لا يقتصر على المركبات الأرضية فقط، بل تمتلك الطائرات النفاثة نسخًا خاصة بها لحسابات الإطلاق التلقائي. تستخدم الطائرات النفاثة الحديثة نظامًا يُسمى نقطة الاصطدام المحسوبة باستمرار (CCIP)، والذي يوضح مكان سقوط القنابل على الأرض. كما تستخدم طائرات الهجوم الأرضي هذا النظام أيضًا لإظهار نقطة إصابة المدفع الرئيسي. أما الطائرات المقاتلة المزوّدة بالرادار، فيمكنها قفل الهدف الجوي باستخدام المدفع لإظهار مؤشر يوضح مكان التصويب المتوقع لإصابة الهدف. هذا القفل الراداري يفعّل أيضًا جهاز إنذار الرادار لدى الطائرة المستهدفة، ويمكن للطائرة المستهدفة أن تستخدم الشعلات الحرارية (Flares) لكسر القفل.
