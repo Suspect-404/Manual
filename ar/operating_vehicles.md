@@ -106,10 +106,10 @@
   * ضبط السبطانة تلقائيًا: عند التصويب على الهدف، يرفع النظام سبطانة السلاح أو يخفضها تلقائيًا وفقًا لمسافة الهدف، لذلك يكفي أن تضع علامة التصويب على الهدف ثم تطلق النار.
 * يختلف منظار الرامي (علامة التصويب الظاهرة على شاشة العرض HUD) من مركبة إلى أخرى بحسب تجهيزاتها. فبعض المركبات، وخاصة الأقدم منها - وإن لم يكن ذلك مرتبطًا بالعمر دائمًا - لا توفر سوى شبكة تصويب (Graticule) تحتوي على خطوط وتدريجات تُستخدم لتحديد نقطة التصويب المناسبة وفقًا لمسافة الهدف.
 وعادةً ما توضح العلامات الموجودة داخل المنظار أي التدريجات يجب استخدامها لكل نوع من الذخيرة. بعد ذلك، يجب على الرامي تقدير المسافة إلى الهدف بدقة، ثم رفع أو خفض سبطانة السلاح بما يتناسب مع تلك المسافة حتى تصيب القذيفة الهدف.
-* Other vehicles come with the ability to set up the gun sight’s zero to indicate the point of aim for the intended point of impact. By holding the commo-rose **\(default: Q\)**, the gunner can dial into the desired range by increasing or subtracting the indicated range. He can also reset the gun into neutral position, which is indicated by the display of **- - - -** in the HUD as range setting.
+* تتيح مركبات أخرى إمكانية ضبط تصفير المنظار (Zeroing)، بحيث تُظهر علامة التصويب نقطة الإصابة المتوقعة عند المسافة التي تحددها. وللقيام بذلك، اضغط مطولًا على قائمة الأوامر او بما تعرف بعجلة الأوامر (Commo-Rose) **(Q افتراضيًا)**، ثم زِد أو أنقص قيمة المسافة حتى تصل إلى المسافة المطلوبة. كما يمكنك إعادة إعداد المسافة إلى الوضع الافتراضي. وعندها ستختفي قيمة المسافة، ويظهر بدلًا منها الرمز - - - - على شاشة العرض.
 
 {% figure "../assets/fcs_manual.png" %}
-Using the commo-rose to manually change the set range.
+استخدام عجلة الأوامر (Commo-Rose) لضبط مسافة التصويب يدويًا.
 {% endfigure %}
 
 * The most sophisticated setup found on most modern vehicles comes with access to a fully automated FCS, complete with a laser range finder. They will show the icon for the laser as active:![](../assets/fcs_cap_laser.png).
