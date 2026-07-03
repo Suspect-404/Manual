@@ -68,13 +68,13 @@
 * لإسقاط **صندوق الإمدادات** بنجاح من مروحية النقل، يجب على الطيار تنفيذ عملية الإسقاط من ارتفاع **لا يتجاوز 30 مترًا (100 قدم)**، وذلك بالضغط على زر الإطلاق البديل. وإلا فقد يتحطم صندوق الإمدادات عند اصطدامه بالأرض.
 * تتميز الشعلات الحرارية (Flares) المستخدمة كإجراءات مضادة بعدد محدود، ويجب إعادة تزويد المروحية بها بعد نفادها. وفي كل مرة تطلق فيها الشعلات الحرارية بالضغط على المفتاح (X)، تُطلق شعلة واحدة فقط.
 
-## _Fixed Wing Aircraft_ {#fixed-wing-aircraft}
+## _الطائرات النفاثة_ {#fixed-wing-aircraft}
 
-* Aircraft have a **warm-up time** of 30 seconds before they can take off from the ground.
-* Jet pilots can look in other directions while flying by pressing the 7, 8 and 9 keys which you can map to a joystick POV HAT Switch. To look forwards again press 1 or select any other weapon your aircraft has.
-* To slowly **taxi** on the ground keep the throttle neutral and push the stick forward or press the up arrow key, to slowly move in that direction. Pull the stick back or press the down arrow key to reverse. To steer left and right use the rudder controls \(**A & D**\).
-* Your maximum altitude is 10km.
-* To **take off** you need to put the throttle on maximum and then wait a little for the plane to start accelerating. When you are down 2/3 of the runway gently start pulling on the stick and maybe add some afterburner.
+* تحتاج الطائرات النفاثة إلى **فترة تهيئة** مدتها **30 ثانية** قبل أن تتمكن من الإقلاع من المدرج.
+* يمكن لطياري الطائرات النفاثة النظر في اتجاهات مختلفة أثناء الطيران باستخدام المفاتيح **7 و8 و9**، كما يمكن ربط هذه المفاتيح بمفتاح POV Hat Switch في عصا التحكم، وهو مفتاح متعدد الاتجاهات يُستخدم لتغيير زاوية النظر. وللعودة إلى النظر للأمام، اضغط على المفتاح 1 أو بدّل إلى أي سلاح آخر في الطائرة.
+* للتحرك ببطء على المدرج، اترك قوة الدفع عند **الخمول (0%)**، ثم ادفع عصا التحكم (Joystick) إلى الأمام أو اضغط على مفتاح السهم لأعلى للتحرك ببطء إلى الأمام. وللرجوع إلى الخلف، اسحب عصا التحكم إلى الخلف أو اضغط على مفتاح السهم لأسفل. أما للانعطاف يمينًا ويسارًا، فاستخدم مفتاحي الدفة **(A و D)**.
+* الحد الأقصى لارتفاع الطائرة هو 10 كيلومترات.
+* **للإقلاع**، ادفع قوة الدفع إلى الحد الأقصى، ثم انتظر قليلًا حتى تبدأ الطائرة في التسارع. وعندما تقطع نحو ثلثي المدرج، ابدأ برفع مقدمة الطائرة برفق بسحب عصا التحكم إلى الخلف. ويمكنك تشغيل الحارق اللاحق (Afterburner) لزيادة قوة الدفع وتسريع الإقلاع عند الحاجة إذا لزم الأمر.
 * Most aircraft come equipped with a **cannon and several external weapons**. The primary fire key will shoot the currently selected weapon, such as cannons and missiles.
 * To **re-arm and repair** you do need to land the aircraft at your airbase and taxi to the “ramp” or on some very few maps, on the runway. It takes quite some time to rearm completely. On Carriers you can only reload on the “ramp” of the carrier, off the runway. This doesn't include the lifts.
 * Most fixed wing aircraft feature **ejection seats** when you press E. It will automatically deploy the parachute when below 750m. 
