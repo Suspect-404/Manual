@@ -104,8 +104,8 @@
   * منظار ثابت: لا يساعدك هذا المنظار على التصويب تلقائيًا. لذلك يجب عليك تقدير مسافة الهدف بنفسك، ثم استخدام العلامات الموجودة داخل المنظار لتوجيه السلاح نحو الهدف.
   * منظار قابل لضبط المسافة: بعد ضبط مسافة الهدف، يتحرك مؤشر التصويب تلقائيًا ليُظهر لك المكان الصحيح الذي يجب التصويب نحوه.
   * ضبط السبطانة تلقائيًا: عند التصويب على الهدف، يرفع النظام سبطانة السلاح أو يخفضها تلقائيًا وفقًا لمسافة الهدف، لذلك يكفي أن تضع علامة التصويب على الهدف ثم تطلق النار.
-* The vehicle gunner‘s view \(the sight in the HUD\) will greatly vary from vehicle to vehicle depending on their specifications. Some vehicles, mostly older generation ones, but not limited to age, simply offer a graticule overlay with lines indicating the necessary point of aim for a given distance.
-The markings on the scope itself will usually clarify which lines are to be used for which type of armament specifically. The gunner then has to correctly estimate the range to the target and adjust the gun’s pitch in order to hit.
+* يختلف منظار الرامي (علامة التصويب الظاهرة على شاشة العرض HUD) من مركبة إلى أخرى بحسب تجهيزاتها. فبعض المركبات، وخاصة الأقدم منها - وإن لم يكن ذلك مرتبطًا بالعمر دائمًا - لا توفر سوى شبكة تصويب (Graticule) تحتوي على خطوط وتدريجات تُستخدم لتحديد نقطة التصويب المناسبة وفقًا لمسافة الهدف.
+وعادةً ما توضح العلامات الموجودة داخل المنظار أي التدريجات يجب استخدامها لكل نوع من الذخيرة. بعد ذلك، يجب على الرامي تقدير المسافة إلى الهدف بدقة، ثم رفع أو خفض سبطانة السلاح بما يتناسب مع تلك المسافة حتى تصيب القذيفة الهدف.
 * Other vehicles come with the ability to set up the gun sight’s zero to indicate the point of aim for the intended point of impact. By holding the commo-rose **\(default: Q\)**, the gunner can dial into the desired range by increasing or subtracting the indicated range. He can also reset the gun into neutral position, which is indicated by the display of **- - - -** in the HUD as range setting.
 
 {% figure "../assets/fcs_manual.png" %}
