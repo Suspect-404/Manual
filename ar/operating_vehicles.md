@@ -100,8 +100,8 @@
 ## أنظمة التحكم في إطلاق النيران {#fire-control-systems}
 تستخدم المركبات في Project Reality نظامًا واقعيًا لحساب مسار المقذوفات. ووفقًا لنوع المركبة، قد يمتلك الرامي أنواعًا مختلفة من أنظمة التحكم في إطلاق النيران (FCS)، وهو نظام إلكتروني يساعد على حساب كيفية توجيه السلاح لإصابة الهدف بدقة. بشكل عام، يساعد نظام FCS على حساب التصحيحات اللازمة لإصابة الهدف بدقة. فهو لا يحسب فقط هبوط المقذوف الناتج عن الجاذبية، بل يأخذ أيضًا في الاعتبار مقاومة الهواء التي تُبطئ المقذوف أثناء طيرانه. كما يمكنه تعويض الفرق بين موضع كاميرا الرامي وسبطانة السلاح، واختلاف الارتفاع بين المركبة والهدف، وميلان المركبة، وحتى سرعتها أثناء الحركة.وكما هو الحال في الواقع، لا تمتلك جميع المركبات القدرات نفسها في أنظمة التحكم في إطلاق النيران. وسيتناول هذا القسم بالتفصيل طرق استخدام أنظمة FCS المختلفة الموجودة في اللعبة.
 ### المركبات البرية
-* In short, there are 3 types of FCS for ground vehicles:
-  * Static sight: You have to rely on range markings in the sight.
+* باختصار، توجد ثلاثة أنواع من أنظمة التحكم في إطلاق النيران (FCS) للمركبات البرية:
+  * منظار ثابت: لا يساعدك هذا المنظار على التصويب تلقائيًا. لذلك يجب عليك تقدير مسافة الهدف بنفسك، ثم استخدام العلامات الموجودة داخل المنظار لتوجيه السلاح نحو الهدف.
   * Adjusting sight: The crosshair moves to show where to aim.
   * Adjusting barrel: The barrel moves to hit where you are aiming.
 * The vehicle gunner‘s view \(the sight in the HUD\) will greatly vary from vehicle to vehicle depending on their specifications. Some vehicles, mostly older generation ones, but not limited to age, simply offer a graticule overlay with lines indicating the necessary point of aim for a given distance.
