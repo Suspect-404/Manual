@@ -112,7 +112,7 @@
 استخدام عجلة الأوامر (Commo-Rose) لضبط مسافة التصويب يدويًا.
 {% endfigure %}
 
-* The most sophisticated setup found on most modern vehicles comes with access to a fully automated FCS, complete with a laser range finder. They will show the icon for the laser as active:![](../assets/fcs_cap_laser.png).
+* تأتي معظم المركبات الحديثة بأحدث أنظمة التحكم في إطلاق النيران، حيث تكون مزودة بنظام آلي بالكامل، بالإضافة إلى محدد مدى ليزري يقيس المسافة إلى الهدف تلقائيًا. وعند تفعيله، ستظهر أيقونة الليزر على الشاشة للدلالة على أنه يعمل:![](../assets/fcs_cap_laser.png).
 * After aiming the crosshair at the desired target\(distance\), on vehicles that have it, the laser range finder can be used with the change camera key **\(default: C\)** which will set the gun automatically to be set in the correct position to fire at the center crosshair. 
 * In the bottom right of the HUD the current set range and available capabilities of your vehicle is shown.
 
