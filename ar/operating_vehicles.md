@@ -79,14 +79,14 @@
 * **لإعادة تسليح الطائرة وإصلاحها**، يجب الهبوط بها في القاعدة الجوية، ثم قيادتها إلى ساحة الوقوف (Ramp)، وهي المنطقة المخصصة لوقوف وتجهيز الطائرات بجوار المدرج. وفي عدد قليل من الخرائط، يمكن إعادة التسلح والإصلاح على المدرج نفسه. وتستغرق عملية إعادة التسلح الكامل بعض الوقت.أما على حاملات الطائرات، فلا يمكن إعادة التسلح إلا في ساحة الوقوف الموجودة خارج المدرج، ولا يمكن إعادة التسلح أثناء الوقوف على منصات الرفع.
 * تحتوي معظم الطائرات النفاثة على **مقاعد قذف (Ejection Seats)**، وهي مقاعد تقذف الطيار خارج الطائرة في حالات الطوارئ. ويمكن استخدامها بالضغط على المفتاح E. وعند انخفاضك إلى أقل من 750 مترًا، تُفتح المظلة تلقائيًا. 
 * تتطلب **الأسلحة جو-أرض** في الطائرات التي يقودها طيار واحد قفلًا ليزريًا على الهدف لضمان إصابته. ويوضح الدليل أدناه الإجراء الموصى به لتنفيذ الهجوم باستخدام هذه الأسلحة:
-  1. Ground troops find a suitable target for an air attack.
-  2. The troops contact the pilot either directly through mumble/text chat and/or by placing a CAS marker. ![](../assets/marker.png)
-  3. The pilot informs the ground troops of his approach using the **“ON THE WAY”** command from his main radio menu and/or through mumble/text chat.
-  4. As the pilot approaches the target, the ground troops mark the target with a laser coming from a **GLTD**, if the laser is slightly off from the target, the missile may miss.
-  5. When the target is locked-on the pilot receives a sound cue. He may now release the bomb/missile.
-* **Two-seater aircraft** allow the weapons systems officer \(WSO\) to identify and engage targets by himself while using the TV targeting mode. The targeting modes work in the same way as in attack helicopters.
-* Aircrafts don't have a nose camera but you can still look back by pressing the cycle camera key \(**C**\) or F11 to look back, and F9 or a weapon key to look forwards again.
-* **Flares** are triggered individually\(**X**\) and need to be rearmed after all of them have been dropped. Since the warning sound is only played once the enemy has already locked onto your aircraft for half a second, it is recommended to use them while on an attack run to reduce the chance of the enemy establishing a lock.
+  1. تحدد القوات البرية هدفًا مناسبًا للهجوم الجوي.
+  2. تتواصل القوات مع الطيار عبر الدردشة الصوتية (Mumble) أو الدردشة النصية، أو تضع علامة الإسناد الجوي القريب (CAS) على الخريطة، أو تستخدم الطريقتين معًا. ![](../assets/marker.png)
+  3. يُبلغ الطيار القوات البرية باقترابه باستخدام أمر **"ON THE WAY"** من قائمة الراديو الرئيسية، و/أو عبر الدردشة الصوتية (Mumble) أو الدردشة النصية.
+  4. عند اقتراب الطيار من الهدف، تقوم القوات البرية بتحديد الهدف باستخدام الليزر الصادر من جهاز **GLTD (وهو جهاز تحديد أهداف بالليزر)**. وإذا كان الليزر غير موجه بدقة نحو الهدف، فقد يخطئ الصاروخ إصابته.
+  5. عند تثبيت القفل على الهدف، يتلقى الطيار تنبيهًا صوتيًا. ويمكنه عندها إطلاق القنبلة أو الصاروخ.
+* تتيح **الطائرات ذات المقعدين** لضابط أنظمة التسليح (WSO: Weapons Systems Officer)، وهو العضو الثاني في الطائرة المسؤول عن تشغيل أنظمة التسليح والتوجيه) تحديد الأهداف ومهاجمتها بنفسه باستخدام وضع التصويب التلفزيوني (TV: وضع كاميرا موجهة تتيح عرض الهدف على شاشة والتحكم في توجيه الأسلحة نحوه). وتعمل أوضاع التوجيه بنفس الطريقة المستخدمة في المروحيات الهجومية.
+* لا تحتوي الطائرات على كاميرا أمامية في المقدمة، ولكن يمكنك مع ذلك النظر إلى الخلف باستخدام مفتاح تبديل الكاميرا **(C)** أو المفتاح F11. وللعودة إلى النظر للأمام، اضغط على المفتاح F9 أو استخدم مفتاح أي سلاح.
+* تُطلق **الشعلات الحرارية (Flares)** بشكل فردي عند الضغط على المفتاح **(X)**، ويجب إعادة تزويدها بالشعلات الحرارية بعد نفادها. وبما أن صوت التحذير لا يصدر إلا بعد أن يتمكن العدو من تثبيت القفل على طائرتك لمدة نصف ثانية، يُنصح باستخدامها أثناء تنفيذ هجوم لتقليل فرصة تمكن العدو من تثبيت القفل عليك.
 
 ### Landing Your Aircraft
 To land in PR:BF2 you need to plan ahead much longer than in BF2. Here are some tips on how to make your first landings easier:
