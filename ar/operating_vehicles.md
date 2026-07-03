@@ -50,7 +50,7 @@
 الستارة الدخانية التي تطلقها المركبة.
 {% endfigure %}
 
-## _Helicopters_ {#helicopters}
+## المروحيات {#helicopters}
 
 * Helicopters have a **warm-up time** of around 30 seconds. If too much thrust is generated while the rotor blades spin up, the pilot will lose control and crash. To start the helicopter you have to leave the throttle at idle for at least 30 seconds before trying to lift off.
 * Helicopter pilots can look in other directions while flying by pressing the 6, 7, 8 and 9 keys which you can map to a joystick POV HAT Switch. To look forwards again press 1 or select any other weapon your aircraft has.
