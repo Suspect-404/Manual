@@ -113,8 +113,8 @@
 {% endfigure %}
 
 * تأتي معظم المركبات الحديثة بأحدث أنظمة التحكم في إطلاق النيران، حيث تكون مزودة بنظام آلي بالكامل، بالإضافة إلى محدد مدى ليزري يقيس المسافة إلى الهدف تلقائيًا. وعند تفعيله، ستظهر أيقونة الليزر على الشاشة للدلالة على أنه يعمل:![](../assets/fcs_cap_laser.png).
-* After aiming the crosshair at the desired target\(distance\), on vehicles that have it, the laser range finder can be used with the change camera key **\(default: C\)** which will set the gun automatically to be set in the correct position to fire at the center crosshair. 
-* In the bottom right of the HUD the current set range and available capabilities of your vehicle is shown.
+* بعد توجيه علامة التصويب نحو الهدف، يمكن في المركبات المزوّدة بمحدد مدى ليزري قياس المسافة إلى الهدف بالضغط على مفتاح تبديل الكاميرا **(C افتراضيًا)**. بعد ذلك، يضبط النظام سبطانة السلاح تلقائيًا على الزاوية المناسبة، بحيث تصيب القذيفة النقطة التي تشير إليها علامة التصويب. 
+* في الزاوية السفلية اليمنى من شاشة العرض، ستظهر مسافة التصويب المضبوطة حاليًا، بالإضافة إلى الميزات المتوفرة في نظام التصويب الخاص بالمركبة
 
 {% figure "../assets/fcs_main.png" %}
 The set range and FCS capability icons being shown in the bottom right of the HUD.
