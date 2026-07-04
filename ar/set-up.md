@@ -39,8 +39,8 @@ _إذا كانت بطاقة الرسومات لديك بمستوى الأداء 
 
 ## _إنشاء حساب Project Reality_ {#creating-a-pr-account}
 
-Since DICE and EA removed support for BF2 in May 2014 we now use our own account-service for PR:BF2. All your old BF2 accounts \(before PR:BF2 v1.2\) are no longer retrievable. Before using the PR Launcher you will need to create a PR Account in order to play online. This account is unique to you. Offline play does not require a PR Account. We use third-party services to connect and verify a PR Account with. Currently we only support Steam. You will need to have an existing Steam account or [create a new one](https://steamcommunity.com/) in order to link to your PR Account. 
-When you launch Project Reality:BF2 for the first time you will be shown the following window:
+بعد أن أوقفت DICE وEA دعم Battlefield 2 في مايو 2014، أصبح Project Reality: BF2 يستخدم خدمة حسابات خاصة به. ولذلك، لم يعد من الممكن استعادة حسابات Battlefield 2 القديمة (التي أُنشئت قبل إصدار PR:BF2 v1.2). وقبل استخدام مشغل Project Reality (PR Launcher)، يجب إنشاء حساب Project Reality حتى تتمكن من اللعب عبر الإنترنت. ويكون هذا الحساب خاصًا بك ولا يشاركه أي مستخدم آخر. أما اللعب دون اتصال بالإنترنت (Offline)، فلا يتطلب إنشاء حساب Project Reality. وللتحقق من حساب Project Reality وربطه، تستخدم اللعبة خدمات خارجية، وتدعم حاليًا منصة Steam فقط. لذلك، ستحتاج إلى حساب Steam موجود مسبقًا، أو [إنشاء حساب جديد](http://www.realitymod.com/downloads)، حتى تتمكن من ربطه بحساب Project Reality. 
+عند تشغيل Project Reality: BF2 لأول مرة، ستظهر لك النافذة التالية:
 
 {% figure "../assets/creating_profile_1.png" %}
 Steam login prompt.
