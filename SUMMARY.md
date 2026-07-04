@@ -2,6 +2,12 @@
 
 * [Introduction](README.md)
 * [Languages](langs.md)
+* [Arabic  - v1.8](ar/README.md)
+* [Set-Up](ar/set-up.md)
+* [Game Modes](ar/game_modes)
+* [Kits](ar/kits)
+* [Operating Vehicles](ar/operating_vehicles.md)
+* [The Commander](ar/commander.md)
 * [English - v1.8](en/README.md)
     * [Set-Up](en/set-up.md)
     * [Game Modes](en/game_modes.md)
