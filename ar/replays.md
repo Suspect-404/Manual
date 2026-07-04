@@ -1,4 +1,4 @@
-# Tracker and Battle Recorder
+# Tracker and Battle Recorder - التتبع وإعادة عرض المعركة
 
 In PR:BF2 there are two kinds of replays: 
 1. 2D, a top down overview of the whole battlefield \(called **Tracker**, with **.prdemo** extension\).
