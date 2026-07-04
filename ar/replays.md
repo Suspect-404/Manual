@@ -8,11 +8,11 @@
 
 توفر بعض الخوادم ملفات Tracker وBattle Recorder بطريقة سهلة الوصول، مع عرض معلومات مثل اسم الخريطة، والطبقة (Layer)، ونمط اللعب، ووقت المباراة. أما في الخوادم التي لا توفر هذه الملفات بهذه الطريقة، فإن الحصول على ملفات إعادة العرض يكون أكثر صعوبة ويتطلب خطوات إضافية.
 
-### Tracker {#tracker}
-You can easily find the desired recording as these files have the time, map, gamemode and layer included into their name. 
+### ## التتبع (Tracker) {#tracker}
+يسهل العثور على ملف إعادة العرض الذي تبحث عنه، إذ يتضمن اسم الملف وقت المباراة، واسم الخريطة، ونمط اللعب، والطبقة (Layer). 
 
 {% note %}
-Keep it mind the server might be in a different timezone and the date in the files might be a little different from your expectations. 
+ضع في اعتبارك أن الخادم قد يستخدم منطقة زمنية مختلفة، لذلك قد يختلف التاريخ أو الوقت الظاهر في أسماء الملفات قليلًا عما تتوقعه. 
 {% endnote %}
 
 After you download a .prdemo file, open [this website](https://yossizap.github.io/realitytracker/ "Tracker Website"), click *Choose file* and find the file you downloaded.
