@@ -100,9 +100,9 @@ _إذا كانت بطاقة الرسومات لديك بمستوى الأداء 
 
 * <span dir="ltr">**Play**</span>:  يبدأ تشغيل اللعبة. وإذا ضغطت على السهم المتجه للأسفل الموجود بجانب الزر، فستتمكن من البحث عن التحديثات أو اختيار ملف شخصي آخر. وفي حال توفر تحديث، فسيظهر تلقائيًا عند الضغط على زر Play. وسيُنزَّل هذا التحديث ويُثبَّت تلقائيًا، مع عرض تقدم عملية التنزيل والتثبيت أثناء تنفيذها.
 * **Options:** تتيح لك هذه القائمة تعديل إعدادات العرض والرسومات والصوت، بالإضافة إلى الوصول إلى خيارات أخرى، مثل إعداد مفاتيح PR Mumble. أما إعدادات تعيين أزرار لوحة المفاتيح، فتتوفر من داخل اللعبة بعد تشغيلها.
-* **Support:** This is handy for when you are running into issues. It offers many utilities such as clearing cached folders or giving you a detailed information display of your computer specifications. This comes in handy when contacting our support team. It also holds information on your PR Account as well as the option to recalculate your PR Account Level. 
-* **Credits:** Here you can see the entire PR:BF2 team who worked on this game.
-* **Donate:** A direct link to our online donation page. The Project Reality Team develops this modification completely free of charge for its community to download and play. If you would like to show your support, please consider [donating to our team](https://www.realitymod.com/forum/misc.php?do=donate).
+* **Support:** تُعد هذه القائمة مفيدة عند مواجهة أي مشكلات. إذ توفر العديد من الأدوات، مثل مسح ملفات التخزين المؤقت (Cache) وعرض معلومات مفصلة عن مواصفات جهازك، وهو ما قد يفيد عند التواصل مع فريق الدعم. كما تعرض معلومات حساب Project Reality، وتتيح أيضًا إعادة احتساب مستوى الحساب (PR Account Level). 
+* **Credits:** : من هذه القائمة يمكنك الاطلاع على جميع أعضاء فريق Project Reality: BF2 الذين شاركوا في تطوير اللعبة.
+* **Donate:** التبرعات: يوفر هذا الخيار رابطًا مباشرًا إلى صفحة التبرعات عبر الإنترنت. يطوّر فريق Project Reality هذا التعديل بالكامل مجانًا ليتمكن المجتمع من تنزيله ولعبه. وإذا كنت ترغب في دعم الفريق، فيرجى التفكير في التبرع له. [للتبرع  للفريق](https://www.realitymod.com/forum/misc.php?do=donate).
 * **Exit:** Use this button to close the PR Launcher and return to Windows.
 
 The launcher’s main menu also provides a news ticker at the bottom highlighted in blue, red or yellow with announcements of upcoming events, developmental progress and developer blogs from the PR:BF2 community. Furthermore you can find links to our social media accounts on the top left. 
