@@ -53,18 +53,18 @@ demo.recorddemo file
 demo.stoprecording
 ```
 
-In this case you will find file.bf2demo in:
+بعد ذلك، ستجد ملف التسجيل (بالاسم الذي اخترته وبامتداد .bf2demo) في المجلد التالي:
 
 ```
 Your PR:BF2 Installation Folder\mods\pr\Demos
 ```
 
-#### Controls {#battlerecorder-controls}
-When in a recording you can switch between Player Camera and Free Roam with **Right Click** or hold **T** and press the button Player Cam / Free Cam. Press **Space** to cylce between players.
+#### عناصر التحكم في Battle Recorder {#battlerecorder-controls}
+أثناء مشاهدة إعادة العرض، يمكنك التبديل بين كاميرا اللاعب (Player Camera) والكاميرا الحرة (Free Camera) **بالنقر بزر الفأرة الأيمن**، أو بالضغط مع الاستمرار على مفتاح **T** ثم اختيار Player Cam أو Free Cam. وللتنقل بين اللاعبين، اضغط مفتاح **Space**.
 
-Number keys \(**1-9**\) change speed, alternatively you can hold **Q** and choose the speed you want.
+لتغيير سرعة تشغيل إعادة المعركة، استخدم مفاتيح الأرقام 1–9، أو اضغط مع الاستمرار على مفتاح **Q** ثم اختر السرعة المطلوبة من القائمة.
 
-To raise the camera hold **Z**, to move forward fast double tap **W**. To slow down movement hold **Shift** while moving. While in Player Cam you can use your scroll wheel to zoom in and out.
+لرفع الكاميرا ، اضغط مع الاستمرار على مفتاح **Z**. وللتحرك إلى الأمام بسرعة، اضغط مفتاح **W** مرتين متتاليتين. ولتقليل سرعة الحركة، اضغط مع الاستمرار على مفتاح **Shift** أثناء التحرك. وعند استخدام كاميرا اللاعب (Player Camera)، يمكنك استخدام عجلة الفأرة للتقريب أو الإبعاد
 
-To go back to the beginning of the recording you can press the **Restart** button when in the **Q** menu.
+للعودة إلى بداية التسجيل، افتح قائمة **Q** ثم اضغط على **Restart**.
 
