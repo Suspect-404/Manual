@@ -15,9 +15,9 @@
 ضع في اعتبارك أن الخادم قد يستخدم منطقة زمنية مختلفة، لذلك قد يختلف التاريخ أو الوقت الظاهر في أسماء الملفات قليلًا عما تتوقعه. 
 {% endnote %}
 
-After you download a .prdemo file, open [this website](https://yossizap.github.io/realitytracker/ "Tracker Website"), click *Choose file* and find the file you downloaded.
+بعد تنزيل ملف بصيغة .**prdemo**، افتح [هذا الموقع](https://yossizap.github.io/realitytracker/ "Tracker Website")، ثم انقر على Choose file، واختر الملف الذي قمت بتنزيله.
 
-Example of how playing tracker looks like:
+مثال على عرض المعركة باستخدام Tracker:
 
 {{ "Tracker Example" | youtube("JiBxdTpJDIA") }}
 
