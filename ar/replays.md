@@ -21,9 +21,8 @@
 
 {{ "Tracker Example" | youtube("JiBxdTpJDIA") }}
 
-### Battle Recorder {#battle-recorder}
-If BR is not provided together with Tracker, it gets a little bit more difficult as the file name of this recording only contains the date. The easiest way to find the desired file is to find a corresponding tracker file first. Battle Recorder files are much larger than tracker files and as a result the time included within their name is usually the one in the tracker file name +5 minutes \(more or less\).
-
+### مسجل المعارك (Battle Recorder) {#battle-recorder}
+إذا لم يكن ملف Battle Recorder متوفرًا مع ملف Tracker، فسيصبح العثور على ملف إعادة العرض المطلوب أكثر صعوبة، لأن اسم ملف Battle Recorder يتضمن التاريخ فقط. لذلك، يُنصح أولًا بالعثور على ملف Tracker الخاص بالمباراة نفسها.ونظرًا لأن ملفات Battle Recorder أكبر حجمًا من ملفات Tracker، فإن الوقت الموجود في اسم ملف Battle Recorder يكون عادةً متأخرًا بحوالي خمس دقائق (زيادة أو نقصانًا قليلًا) عن الوقت الموجود في اسم ملف Tracker
 
 After you download a .bf2demo file, you need to place it in:
 
