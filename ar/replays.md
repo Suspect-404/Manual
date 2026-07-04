@@ -24,16 +24,15 @@
 ### مسجل المعارك (Battle Recorder) {#battle-recorder}
 إذا لم يكن ملف Battle Recorder متوفرًا مع ملف Tracker، فسيصبح العثور على ملف إعادة العرض المطلوب أكثر صعوبة، لأن اسم ملف Battle Recorder يتضمن التاريخ فقط. لذلك، يُنصح أولًا بالعثور على ملف Tracker الخاص بالمباراة نفسها.ونظرًا لأن ملفات Battle Recorder أكبر حجمًا من ملفات Tracker، فإن الوقت الموجود في اسم ملف Battle Recorder يكون عادةً متأخرًا بحوالي خمس دقائق (زيادة أو نقصانًا قليلًا) عن الوقت الموجود في اسم ملف Tracker
 
-After you download a .bf2demo file, you need to place it in:
+بعد تنزيل ملف .bf2demo، انقله إلى المجلد التالي:
 
 ```
 %UserProfile%\Documents\ProjectReality\Profiles\Default\demos
 ```
-
-Note that **you may have to create the 'demos' directory** manually. After the BR file is in the correct directory, you can launch the game. If the game is already running, you have to restart it — otherwise the BR file will not appear on the list. The demo can be found at **REPLAYS** in the main menu. Choose the desired file in the Battlerecorder Library section and then Play File. 
+ملاحظة: **قد تحتاج إلى إنشاء مجلد demos يدويًا إذا لم يكن موجودًا**. بعد وضع ملف Battle Recorder في المجلد الصحيح، شغّل اللعبة. وإذا كانت اللعبة تعمل بالفعل، فيجب إعادة تشغيلها، وإلا فلن يظهر ملف إعادة العرض في القائمة. بعد تشغيل اللعبة، انتقل إلى قسم REPLAYS في القائمة الرئيسية، ثم اختر الملف المطلوب من قسم Battle Recorder Library واضغط على Play File لبدء تشغيل إعادة العرض. 
 
 {% note %}
-The game version the BR was recorded in has to match the game version you have installed in order to play it. Otherwise the game will crash with the 'Networkables already added' error.
+يجب أن يتطابق إصدار اللعبة الذي سُجل به ملف Battle Recorder مع إصدار اللعبة المثبت على جهازك. وإذا اختلف الإصداران، فلن يعمل ملف إعادة العرض، وقد تتعطل اللعبة وتظهر رسالة الخطأ: 'Networkables already added'.
 {% endnote %}
 
 Example of how playing Battle Recorder looks like:
