@@ -103,9 +103,9 @@ _إذا كانت بطاقة الرسومات لديك بمستوى الأداء 
 * **Support:** تُعد هذه القائمة مفيدة عند مواجهة أي مشكلات. إذ توفر العديد من الأدوات، مثل مسح ملفات التخزين المؤقت (Cache) وعرض معلومات مفصلة عن مواصفات جهازك، وهو ما قد يفيد عند التواصل مع فريق الدعم. كما تعرض معلومات حساب Project Reality، وتتيح أيضًا إعادة احتساب مستوى الحساب (PR Account Level). 
 * **Credits:** من هذه القائمة يمكنك الاطلاع على جميع أعضاء فريق Project Reality: BF2 الذين شاركوا في تطوير اللعبة.
 * **Donate:**  يوفر هذا الخيار رابطًا مباشرًا إلى صفحة التبرعات عبر الإنترنت. يطوّر فريق Project Reality هذا التعديل بالكامل مجانًا ليتمكن المجتمع من تنزيله ولعبه. وإذا كنت ترغب في دعم الفريق، فيرجى التفكير في التبرع له. [للتبرع  للفريق](https://www.realitymod.com/forum/misc.php?do=donate).
-* **Exit:** Use this button to close the PR Launcher and return to Windows.
+* **Exit:** ضغط على هذا الزر لإغلاق مشغل Project Reality والعودة إلى نظام Windows.
 
-The launcher’s main menu also provides a news ticker at the bottom highlighted in blue, red or yellow with announcements of upcoming events, developmental progress and developer blogs from the PR:BF2 community. Furthermore you can find links to our social media accounts on the top left. 
+تعرض القائمة الرئيسية للمشغل أيضًا شريطًا إخباريًا في الأسفل، مميزًا بالألوان الأزرق أو الأحمر أو الأصفر، يتضمن إعلانات عن الفعاليات القادمة، ومستجدات تطوير Project Reality، ومدونات المطورين. كما يمكنك العثور على روابط حساباتنا على وسائل التواصل الاجتماعي في الزاوية العلوية اليسرى. 
 
 ## _In-Game Menu Navigation_ {#in-game-menu-navigation}
 
