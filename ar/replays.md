@@ -35,7 +35,7 @@
 يجب أن يتطابق إصدار اللعبة الذي سُجل به ملف Battle Recorder مع إصدار اللعبة المثبت على جهازك. وإذا اختلف الإصداران، فلن يعمل ملف إعادة العرض، وقد تتعطل اللعبة وتظهر رسالة الخطأ: 'Networkables already added'.
 {% endnote %}
 
-Example of how playing Battle Recorder looks like:
+مثال على عرض المعركة باستخدام Battle Recorder:
 
 {{ "BattleRecorder Example" | youtube("CMF5swC4qaw") }}
 
