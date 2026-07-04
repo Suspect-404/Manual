@@ -39,16 +39,15 @@
 
 {{ "BattleRecorder Example" | youtube("CMF5swC4qaw") }}
 
-### Creating BR files {#recording}
-You can also make your own recordings, but only while being in a local server. To do so open the console with **`** \(the key above Tab and left of 1\) and type:
+### إنشاء ملفات Battle Recorder {#recording}
+يمكنك أيضًا إنشاء ملفات Battle Recorder الخاصة بك، ولكن ذلك لا يتوفر إلا عند اللعب على خادم محلي (Local Server). وللقيام بذلك، افتح وحدة الأوامر (Console) بالضغط على مفتاح **` (الموجود أعلى مفتاح Tab وإلى يسار الرقم 1)**، ثم اكتب الأمر التالي:
 
 ```
 demo.recorddemo file
 ```
 
-where **file** will be the name of your recording. 
-
-To stop recording type:
+في الأمر السابق، لا تكتب كلمة **file** كما هي، بل استبدلها باسم من اختيارك ليكون اسم ملف التسجيل. 
+وعند الانتهاء من التسجيل، اكتب الأمر التالي لإيقافه:
 
 ```
 demo.stoprecording
