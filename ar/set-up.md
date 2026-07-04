@@ -90,15 +90,15 @@ _إذا كانت بطاقة الرسومات لديك بمستوى الأداء 
 
 ## _مشغل Project Reality_ {#the-pr-launcher}
 
-After installation a shortcut for Project Reality:BF2 will be provided on the desktop, double click on this icon to open the PR Launcher. 
+بعد اكتمال التثبيت، سيُنشأ اختصار لـ Project Reality: BF2 على سطح المكتب. انقر نقرًا مزدوجًا على هذا الاختصار لفتح مشغل Project Reality.  
 
 {% figure "../assets/launcher_1.png" %}
-Main page of PR Launcher.
+الواجهة الرئيسية لمشغل Project Reality.
 {% endfigure %}
 
-All main options are displayed on the right.
+تظهر جميع الخيارات الرئيسية في الجهة اليمنى.
 
-* **Play:**  This will start the game. If you click the down arrow to the right, you have the option to check for updates or select a different profile. If there is an update it will be automatically displayed if you press the play button. This update will then automatically be downloaded and installed. Progress of the update and installation will be displayed whilst it is in operation.
+* <span dir="ltr">**Play**</span>:  يبدأ تشغيل اللعبة. وإذا ضغطت على السهم المتجه للأسفل الموجود بجانب الزر، فستتمكن من البحث عن التحديثات أو اختيار ملف شخصي آخر. وفي حال توفر تحديث، فسيظهر تلقائيًا عند الضغط على زر Play. وسيُنزَّل هذا التحديث ويُثبَّت تلقائيًا، مع عرض تقدم عملية التنزيل والتثبيت أثناء تنفيذها.
 * **Options:** In this menu you can edit your video, graphics, and audio settings. Also some other options are available as well as configuring PR Mumble keys. Options related to the keyboard layout can be found once you open the game.
 * **Support:** This is handy for when you are running into issues. It offers many utilities such as clearing cached folders or giving you a detailed information display of your computer specifications. This comes in handy when contacting our support team. It also holds information on your PR Account as well as the option to recalculate your PR Account Level. 
 * **Credits:** Here you can see the entire PR:BF2 team who worked on this game.
