@@ -7,16 +7,16 @@
 ## _اختيار الكت والظهور_ {#kit-selection-and-spawning}
 
 * عند بدء اللعب، يُنصح بأن تظهر في ساحة المعركة باستخدام كت Rifleman مع المنظار الذي تفضله، فهذه أفضل طريقة لتعلّم أساسيات اللعب وإتقانها.
-* After learning infantry basics you can ask your SL to assign you a specialized kit when you feel up to the task. If you want to try out new equipment or a vehicle, you can do so easily in the co-op mode without inconveniencing your squad members or risking your team's assets.
-* Kits that are specialized and more difficult to operate are generally limited and can only be obtained if certain conditions are met within a squad. These reserved kits are of limited supply to the team and you should always ask before requesting one.
-* Kits can be requested from the main spawn menu \(default: **Caps Lock**\), a supply crate \([see Logistics](the_basics.md#logistics)\) or the rear of an APC / IFV. To have the ability to request a kit from a supply crate or vehicle, you must be a part of a squad.
+* بعد إتقان أساسيات القتال كمشاة، يمكنك أن تطلب من قائد فرقتك (SL) أن يمنحك كتًا متخصصة عندما تشعر بأنك مستعد لذلك. وإذا أردت تجربة معدات جديدة أو قيادة إحدى المركبات، فيمكنك فعل ذلك بسهولة في طور Co-op دون أن تعيق أفراد فرقتك أو تعرّض موارد فريقك للخطر.
+* الكتات المتخصصة والأكثر صعوبة في الاستخدام تكون محدودة عادةً، ولا يمكن الحصول عليها إلا عند استيفاء شروط معينة داخل الفرقة. وتتوفر هذه الكتات بأعداد محدودة لكل فريق، لذا احرص دائمًا على الاستئذان قبل طلب إحداها.
+* يمكن طلب الكتات من قائمة الظهور الرئيسية (الزر الافتراضي: Caps Lock)، أو من صندوق الإمدادات [راجع: اللوجستيات]((the_basics.md#logistics)\))، أو من الجزء الخلفي لناقلة جنود مدرعة (APC) أو مركبة قتال مشاة (IFV). ولكي تتمكن من طلب كت من صندوق إمدادات أو من مركبة، يجب أن تكون عضوًا في فرقة.
 
-In PR:BF2 you cannot spawn at every control point that your team controls. Spawn points available in PR:BF2 are:
+في PR:BF2، لا يمكنك الظهور عند جميع نقاط السيطرة التي يسيطر عليها فريقك. وتتمثل نقاط الظهور المتاحة في PR:BF2 فيما يلي:
 
-* **Your squad's rally point \(RP\)** is a green circle surrounding a spawn point with your squad’s number adjacent to it. Depending on the location of your squad’s RP in relation to a team’s FOB will determine its longevity. Note: If you spawn on another squad’s rally point, you will automatically spawn at your own rally point, or any nearby FOB. If none available you will be moved to the main base of your team. If overrun by the enemy, your squad’s RP will disappear. RPs are not available to every faction. \([see Deployable Structures](the_squad_leader.md#deployable-structures)\)
+* **نقطة الظهور الخاصة بفرقتك (Rally Point أو RP)** تُعرض على شكل دائرة خضراء تحيط بنقطة ظهور، وبجوارها رقم فرقتك. ويعتمد بقاؤها على موقعها بالنسبة إلى قاعدة العمليات الأمامية (FOB) التابعة لفريقك. ملاحظة: لا يمكنك الظهور عند Rally Point الخاصة بفرقة أخرى. فإذا حاولت اختيارها، فستظهر تلقائيًا عند Rally Point الخاصة بفرقتك، أو عند أقرب FOB متاحة. وإذا لم تكن أي منهما متوفرة، فستظهر في القاعدة الرئيسية لفريقك. وإذا اجتاح العدو نقطة تجمع فرقتك، فستختفي ولن تعود متاحة للظهور. كما أن نقاط التجمع (RP) ليست متوفرة لدى جميع الفصائل. [راجع قسم: المنشآت القابلة للبناء](the_squad_leader.md#deployable-structures)
 
 {% figure "../assets/rally.png" %}
-  A rallypoint.
+ نقطة تجمع (Rally Point).
 {% endfigure %}
 
 * **Map-specific team rally points**. These usually expire 5 minutes after the round starts and can be used by the whole team. These also only allow maximum 12 people to spawn on it until it disappears.
