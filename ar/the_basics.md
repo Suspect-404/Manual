@@ -19,24 +19,24 @@
  نقطة تجمع (Rally Point).
 {% endfigure %}
 
-* **Map-specific team rally points**. These usually expire 5 minutes after the round starts and can be used by the whole team. These also only allow maximum 12 people to spawn on it until it disappears.
-* **The commander rally point**. This RP can only be placed by the commander, provided a squad leader and 4 squadmates are in the vicinity of the CO. On the map this will be a rally point with a “C” next to it.
-* **Deployable forward operating base \(FOB\) or hideouts** can be used by the entire team to spawn at, but must be constructed before becoming operational. On the map it will show as a spawn point with a green triangle. It comes online 90 seconds after being built. It becomes unspawnable for 30 seconds if 1 enemy is within 10m, 2 enemies within 50m, 4 enemies within 100m or 8 enemies within 150m. [\(see Deployable Structures\)](the_squad_leader.md#deployable-structures)
-* In the Insurgency game mode, the defending insurgent team may spawn at the **weapons caches** that hasn't been revealed to the enemy, this is called the unknown cache. This spawn is also disabled if enemies becomes too close, similar to the FOB.
+* **نقاط التجمع (Rally Point) الخاصة بالفريق، والتي تختلف حسب الخريطة**. تكون متاحة عادةً لمدة 5 دقائق بعد بداية الجولة، ويمكن لجميع أفراد الفريق استخدامها للظهور. وتختفي بعد أن يظهر عندها 12 لاعبًا كحد أقصى.
+* **نقطة تجمع القائد (Commander Rally Point)**. لا يمكن إنشاء نقطة التجمع هذه إلا بواسطة القائد العام، بشرط وجود قائد فرقة وأربعة من أفراد فرقته بالقرب منه. وتظهر على الخريطة على شكل Rally Point تحمل الحرف ”C“ بجانبها.
+* **قواعد العمليات الأمامية (FOB) أو المخابئ القابلة للبناء (Hideout)** يمكن لجميع أفراد الفريق استخدامها كنقاط ظهور، لكنها لا تصبح جاهزة للاستخدام إلا بعد بنائها. وتظهر على الخريطة كنقطة ظهور تحمل مثلثًا أخضر، وتصبح جاهزة للعمل بعد 90 ثانية من اكتمال بنائها. وتصبح غير متاحة للظهور لمدة 30 ثانية إذا وُجد عدو واحد ضمن 10 أمتار، أو عدوان ضمن 50 مترًا، أو أربعة أعداء ضمن 100 متر، أو ثمانية أعداء ضمن 150 مترًا. [راجع قسم: المنشآت القابلة للبناء](the_squad_leader.md#deployable-structures)
+* في طور Insurgency، يستطيع الفريق المدافع من المتمردين الظهور عند **مخابئ الأسلحة (weapons caches)** التي لم يكتشفها العدو بعد، وتُعرف هذه المخابئ باسم المخبأ المجهول (Unknown Cache). كما تصبح نقطة الظهور هذه غير متاحة إذا اقترب منها الأعداء أكثر من اللازم، تمامًا كما هو الحال مع FOB.
 
 {% figure "../assets/fob.png", "../assets/hideout.png", "../assets/cache-weapon.png" %}
-FOB, Hideout & weapon cache.
+قاعدة عمليات أمامية (FOB)، مخبأ (Hideout)، ومخبأ أسلحة (Weapon Cache).
 {% endfigure %}
 
 
 
-* **Your team's headquarters, main base or permanent FOB.** This is the only spawn point that is always available.
+* **مقر فريقك، أو القاعدة الرئيسية، أو قاعدة العمليات الأمامية الدائمة (Permanent FOB)**. وهي نقطة الظهور الوحيدة المتاحة دائمًا.
 
 {% figure "../assets/acv.png" %}
-Armored Command Vehicle (ACV) found in mainbases only.
+مركبة القيادة المدرعة (ACV)، وتوجد في القواعد الرئيسية فقط.
 {% endfigure %}
 
-* Some maps feature **parachute spawns** where an airborne assault is simulated. These will be visualized by moving spawn markers on the minimap. Choose one and you will spawn with an automaticly deployed parachute.
+* تتضمن بعض الخرائط **نقاط ظهور بالمظلات (Parachute Spawns)**، لمحاكاة عمليات الإنزال الجوي. وتظهر هذه النقاط على الخريطة المصغرة على هيئة علامات ظهور متحركة. اختر إحداها، وستظهر في ساحة المعركة بمظلة تُفتح تلقائيًا.
 
 ## _In-game interface \(HUD\)_ {#hud}
 * In the PR:BF2 in-game HUD, players are notified by **player-specific messages** that can only be seen by that player. They are used to give players feedback about different in-game events for example:
