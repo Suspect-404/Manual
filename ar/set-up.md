@@ -169,39 +169,39 @@ _إذا كانت بطاقة الرسومات لديك بمستوى الأداء 
 * [General Technical Support](https://www.realitymod.com/forum/forumdisplay.php?f=360) قسم مخصص لجميع الاستفسارات والمشكلات التقنية.
 * [PR In-Game Tactics and Strategies](https://www.realitymod.com/forum/forumdisplay.php?f=137) يوفر أدلة وشروحات أعدها أفراد المجتمع، تساعدك على إتقان مختلف جوانب Project Reality: BF2 بما يتجاوز ما يغطيه هذا الدليل.
 
-## _Default Game Controls_ {#default-game-controls}
+## _أزرار التحكم_ {#default-game-controls}
 
 <div style="text-align: center";>
-<p><b>General Controls</b></div>
+<p><b>أزرار التحكم العامة</b></div>
 
-| **Key** | **Function** |
+| **الزر** | الوظيفة |
 | --- | --- |
-| **Caps Lock/Home** | Kit selection, squad selection and Map menus |
-| **Tab** | Show scoreboard |
-| **Print Screen** | Take Screenshot |
-| **M** | Show/hide Map overlay |
-| **N** | Switch zoom level of minimap |
-| **Q** | Display main radio-rose |
-| **T** | Display secondary radio-rose |
-| **Left alt** | Show/hide 3D markers \(only visible within 75m\) |
-| **C** | Toggle BUIS / Change camera |
-| **End/grave** | Console |
+| <span dir="ltr">**Caps Lock/Home**</span> | فتح قوائم اختيار الكت والفرقة والخريطة |
+| **Tab** | عرض لوحة النتائج |
+| **Print Screen** | التقاط لقطة شاشة |
+| **M** | إظهار/إخفاء الخريطة الشفافة |
+| **N** | التبديل بين مستويات تكبير الخريطة المصغرة |
+| **Q** | عرض عجلة أوامر الاتصال الرئيسية |
+| **T** | عرض عجلة أوامر الاتصال الثانوية |
+| **Left alt** | إظهار/إخفاء العلامات ثلاثية الأبعاد (تظهر فقط ضمن مسافة 75 مترًا) |
+| **C** | التبديل إلى BUIS (المشاهد الحديدية الاحتياطية) / تغيير الكاميرا |
+| **End/grave** | فتح وحدة التحكم |
 
 <div style="text-align: center";>
-<p><b>Weapons</b></div>
+<p><b>الأسلحة</b></div>
  
-| **Key** | **Function** |
+| **الزر** | الوظيفة |
 | --- | --- |
-| **G** | Pick up a kit |
-| **Left Mouse** | Fire |
-| **Right Mouse** | Alt Fire or Toggle sights |
-| **R** | Reload |
-| **F** | Cycle Weapons |
-| **1-9** | Select Weapon |
-| **Left Shift** | Focus |
+| **G** | التقاط الكت |
+| **Left Mouse** | إطلاق النار |
+| **Right Mouse** | الإطلاق البديل أو التصويب |
+| **R** | إعادة التلقيم |
+| **F** | التبديل بين الأسلحة |
+| **1-9** | اختيار السلاح |
+| **Left Shift** | تثبيت التصويب (حبس النفس) |
 
 <div style="text-align: center";>
-<p><b>Movement</b></div>
+<p><b>الحركة</b></div>
 
 | **Key** | **Function** |
 | --- | --- |
@@ -215,10 +215,10 @@ _إذا كانت بطاقة الرسومات لديك بمستوى الأداء 
 <div style="text-align: center";>
 <p><b>Vehicles</b></div>
 
-| **Key** | **Function** |
+| **الزر** | الوظيفة |
 | --- | --- |
-| **F1-F8** | Switch Vehicle Position |
-| **X** | increase zoom magnification / flares |
+| **F1-F8** | التبديل بين مقاعد المركبة |
+| **X** | زيادة مستوى التكبير / إطلاق الشعلات الحرارية |
 | **6-9** | Camera Positions \(helicopters and aircraft only\) |
 | **R** | Reload |
 | **F** | Cycle Weapons |
