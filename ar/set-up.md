@@ -153,21 +153,21 @@ _إذا كانت بطاقة الرسومات لديك بمستوى الأداء 
 
 
 
-## _Troubleshooting_ {#troubleshooting}
+## _حل المشكلات_ {#troubleshooting}
 
-* PR:BF2 has its own file verification before you start the game. You will not be able to play online with modified files. You can still use them offline.
-* PR:BF2 needs to be started using the PR Launcher. Launching BF2.EXE or PRBF2.EXE will not work.
-* In addition to the built-in server browser you can use the web-based [PRSpy](https://www.realitymod.com/prspy/) to browse and join PR:BF2 servers. PRSpy also features a friend-list which makes locating your friends much easier.
-* If the server you want to join is full, now you have the option of using Auto Deploy. Select the server, click on “SERVER INFO” and then “AUTO DEPLOY”. A dialog will open that explains the remaining steps. Then simply sit back and wait to be connected once a slot opens up.
-* The Support Menu in the PR Launcher can come in very handy. It can gather all system information of your computer for you to copy and paste into our Support forums for when you need assistance. It can also provide you with your CD-Key Hash.
+* تحقق Project Reality: BF2 من ملفات اللعبة قبل تشغيلها. ولن تتمكن من اللعب عبر الإنترنت إذا كانت ملفات اللعبة معدلة، لكن يمكنك استخدامها في اللعب دون اتصال.
+* يجب تشغيل Project Reality: BF2 باستخدام مشغل Project Reality. أما تشغيل الملفين BF2.EXE أو PRBF2.EXE مباشرةً فلن ينجح.
+* بالإضافة إلى متصفح الخوادم المدمج، يمكنك استخدام [PRSpy](https://www.realitymod.com/prspy/) عبر الويب لاستعراض خوادم Project Reality: BF2 والانضمام إليها. كما يوفر PRSpy قائمة أصدقاء، مما يسهّل العثور على أصدقائك والانضمام إليهم.
+* إذا كان الخادم الذي ترغب في الانضمام إليه ممتلئًا، فيمكنك استخدام ميزة **Auto Deploy**. اضغط على الخادم، ثم اضغط على **SERVER INFO** وبعدها **AUTO DEPLOY**. ستظهر نافذة توضح الخطوات المتبقية. بعد ذلك، ما عليك سوى الانتظار حتى يتوفر مكان في الخادم، وسيتم ضمك إليه تلقائيً.
+* قد تكون قائمة Support في مشغل Project Reality مفيدة جدًا. إذ يمكنها جمع معلومات نظام جهازك، لتتمكن من نسخها ولصقها في منتديات الدعم عند طلب المساعدة. كما يمكنها أيضًا عرض CD-Key Hash الخاص بك.
 
-Here are a couple of forum links from realitymod.com to use for various common reasons:
+فيما يلي بعض روابط منتديات RealityMod التي قد تحتاج إليها في الحالات الشائعة:
 
-* [PR:BF2 Bugs](https://www.realitymod.com/forum/forumdisplay.php?f=26) sub-forum to report bugs.
-* [PR:BF2 Feedback](https://www.realitymod.com/forum/forumdisplay.php?f=252) sub-forum to post your feedback about PR:BF2.
-* [PR:BF2 Support](https://www.realitymod.com/forum/forumdisplay.php?f=27) forums for all your problems regarding running and installing the game and errors you are getting.
-* [General Technical Support](https://www.realitymod.com/forum/forumdisplay.php?f=360) for all your technical questions.
-* [PR In-Game Tactics and Strategies](https://www.realitymod.com/forum/forumdisplay.php?f=137) will help you further than this manual to master all elements of PR:BF2 with community written guides and tutorials.
+* [PR:BF2 Bugs](https://www.realitymod.com/forum/forumdisplay.php?f=26) قسم فرعي مخصص للإبلاغ عن الأخطاء البرمجية.
+* [PR:BF2 Feedback](https://www.realitymod.com/forum/forumdisplay.php?f=252) قسم فرعي لإرسال ملاحظاتك واقتراحاتك حول PR:BF2.
+* [PR:BF2 Support](https://www.realitymod.com/forum/forumdisplay.php?f=27) منتديات مخصصة لجميع المشكلات المتعلقة بتشغيل اللعبة أو تثبيتها، بالإضافة إلى أي أخطاء قد تواجهها.
+* [General Technical Support](https://www.realitymod.com/forum/forumdisplay.php?f=360) قسم مخصص لجميع الاستفسارات والمشكلات التقنية.
+* [PR In-Game Tactics and Strategies](https://www.realitymod.com/forum/forumdisplay.php?f=137) يوفر أدلة وشروحات أعدها أفراد المجتمع، تساعدك على إتقان مختلف جوانب Project Reality: BF2 بما يتجاوز ما يغطيه هذا الدليل.
 
 ## _Default Game Controls_ {#default-game-controls}
 
