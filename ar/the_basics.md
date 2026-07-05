@@ -46,25 +46,25 @@
 * تستخدم PR أيضًا إشعارات القيادة **(HQ Notifications)**، والتي تظهر بخط برتقالي كبير في أعلى يسار الشاشة. وتُطلعك هذه الإشعارات على الأهداف الحالية، وتقدم المهمة، وغيرها من الرسائل المهمة.
 * تظهر الرسائل المباشرة من مسؤولي الخادم، وبعض إشعارات اللعبة، بخط برتقالي بالقرب من منتصف الشاشة. بعض هذه الرسائل معلوماتية فقط، بينما قد تتطلب رسائل أخرى، وخاصةً رسائل مسؤولي الخادم، انتباهك.
 * إذا فاتتك رسالة أو إعلان، مثل نتيجة التصويت على الخريطة، فيمكنك عرضها مجددًا بالضغط مطولًا على مفتاح Tab، ثم النقر بزر الفأرة الأيمن مرة واحدة لتفعيل المؤشر، وبعدها النقر بزر الفأرة الأيسر على **نافذة الإشعارات (Notifications)**.
-* Firing **cross-hairs** have been removed from the screen. If you want to shoot precisely, you need press the alternate firing key to aim down your weapon's sights, or use the BUIS for close quarter fighting \(see [the weapons chapter](weapons_and_equipment.md#buis)\).
-* **Most 3D icons have been removed** for all players. It is vital to ID your targets before engaging to avoid friendly fire. Learning the distinction of different camo, flags and the profile shape of the factions infantry helps you ID an enemy faster. As an example, to locate a Squad Leader, look for a radio antenna extending upwards from his backpack.
-* **No health status bar** indicating your vital status. \([see Health Management](the_basics.md#health-management)\)
-* **The ammo counter** only displays the weapon's fire mode and the number of remaining magazines.
-* To estimate the **amount of rounds left** in your magazine you can open the communication rose\(hold: **Q**\) and see a visual indicator of the amount of ammo left. 
+* لم تعد **علامة التصويب** تظهر على الشاشة. ولإطلاق النار بدقة، عليك الضغط على مفتاح الإطلاق البديل للتصويب عبر أجهزة تصويب السلاح، أو استخدام أجهزة التصويب الحديدية الاحتياطية (BUIS) في الاشتباكات القريبة [راجع: فصل الأسلحة](weapons_and_equipment.md#buis).
+* **أُزيلت معظم الأيقونات ثلاثية الأبعاد من اللعبة**. لذلك، من الضروري التأكد من هوية هدفك قبل الاشتباك معه لتجنب إصابة أفراد فريقك بنيران صديقة. ويساعدك التعرّف على أنماط التمويه المختلفة، وأعلام الفصائل، والهيئة العامة لجنود كل فصيل على تمييز العدو بسرعة أكبر. وعلى سبيل المثال، إذا أردت التعرف على قائد الفرقة (Squad Leader)، فابحث عن هوائي جهاز اللاسلكي الممتد أعلى حقيبة ظهره.
+* لا يوجد شريط يوضح حالتك الصحية. [راجع قسم: إدارة الصحة](the_basics.md#health-management)
+* لا يعرض **عداد الذخيرة** سوى وضع إطلاق النار وعدد المخازن المتبقية.
+* لتقدير **عدد الطلقات المتبقية** في المخزن، يمكنك فتح عجلة الأوامر **(بالضغط مطولًا على Q)** للاطلاع على مؤشر مرئي يوضح كمية الذخيرة المتبقية. 
 
 {% figure "../assets/ammo_check.png" %}
-Ammo indicator.
+مؤشر الذخيرة.
 {% endfigure %}
 
-* **The medic** can see how far he is done healing a soldier with the HUD just above the compass. Infantry can watch the same way how long until deployable is finished shoveling.
+* يستطيع **المسعف** معرفة مدى تقدم علاج الجندي من خلال المؤشر الموجود في واجهة اللعبة أعلى البوصلة مباشرةً. كما يستطيع جنود المشاة معرفة مدى تقدم بناء المنشآت القابلة للبناء بالمجرفة بالطريقة نفسها.
 
 {% figure "../assets/heal_build_bar.png" %}
-Healing/Building indicator bar.
+شريط تقدم العلاج/البناء.
 {% endfigure %}
 
-* There are **no kill messages** \(friendly fire is an exception\). Even the scoreboard will not show who is alive or dead on the enemy team. If you need to know whether someone is dead, you should look for his body.
-* Only air vehicles and some armor drivers use a permanent **mini-map** on the HUD. The full map overlay is available for everybody.
-* **The current map & layer** can be viewed on the top of the screen when opening the map with squad/kit menu.
+* ا توجد **رسائل القتل** (باستثناء النيران الصديقة). وحتى لوحة النتائج لا تعرض من هو حي أو ميت في الفريق المعادي. وإذا أردت التأكد من مقتل أحد، فعليك البحث عن جثته.
+* لا تظهر الخريطة المصغرة بشكل دائم في واجهة اللعبة إلا لطياري المركبات الجوية وبعض سائقي المركبات المدرعة. أما الخريطة الكاملة، فهي متاحة لجميع اللاعبين.
+*يمكن الاطلاع على **اسم الخريطة الحالية والطبقة (Layer)** في أعلى الشاشة عند فتح الخريطة مع قائمة الفرقة/الكت.
 * Using the little arrow \(left of timer\) will show you the **current map asset info overlay** of all vehicles that are on the map including the respawn timers of friendly vehicles as well as whether or not they spawn with a delay or respawn upon destruction. Off Map Mortar or Artillery, also known as Area Attacks, are usually limited to 3 or 4 uses, and can only be used after relatively long waiting periods.
 
 {% figure "../assets/assets.png" %}
