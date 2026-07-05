@@ -203,46 +203,46 @@ _إذا كانت بطاقة الرسومات لديك بمستوى الأداء 
 <div style="text-align: center";>
 <p><b>الحركة</b></div>
 
-| **Key** | **Function** |
+| **الزر** | الوظيفة |
 | --- | --- |
-| **E** | Enter / Exit vehicle or emplacement |
-| **WASD** | Basic movement |
-| **Left Ctrl** | Crouch \(hold\) |
-| **Z** | Toggle prone |
-| **Space** | Jump |
-| **Left Shift** | Sprint / Vehicle Boost |
+| **E** |دخول/الخروج من مركبة أو سلاح ثابت |
+| **WASD** | الحركة الأساسية |
+| **Left Ctrl** | الانحناء (مع الاستمرار بالضغط) |
+| **Z** | الانبطاح |
+| **Space** | القفز |
+| **Left Shift** | الركض / تعزيز سرعة المركبة |
 
 <div style="text-align: center";>
-<p><b>Vehicles</b></div>
+<p><b>المركبات</b></div>
 
 | **الزر** | الوظيفة |
 | --- | --- |
 | **F1-F8** | التبديل بين مقاعد المركبة |
 | **X** | زيادة مستوى التكبير / إطلاق الشعلات الحرارية |
-| **6-9** | Camera Positions \(helicopters and aircraft only\) |
-| **R** | Reload |
-| **F** | Cycle Weapons |
-| **1-9** | Select Weapon |
+| **6-9** | التبديل بين زوايا الكاميرا (للمروحيات والطائرات فقط) |
+| **R** | إعادة التلقيم |
+| **F** | التبديل بين الأسلحة |
+| **1-9** | اختيار السلاح |
 
 <div style="text-align: center";>
-<p><b>Communication</b></div>
+<p><b>التواصل</b></div>
 
-| **Key** | **Function** |
+| **الزر** | الوظيفة |
 | --- | --- |
-| **J** | Text chat for all players |
-| **K** | Text chat for your team only |
-| **L** | Text chat for your squad only |
-| **Page Up** | Accept request |
-| **Page Down** | Deny request |
-| **V or H** | PR Mumble Proximity Local Channel |
-| **B or 0 \(numpad\)** | PR Mumble Squad Radio Channel |
-| **1-9 \(numpad\)** | PR Mumble Individual Squad Leader Radio Channel |
-| **\*\(numpad\)** | PR Mumble All Squad Leader Radio Channel |
-| **/\(numpad\)** | PR Mumble Commander Radio Channel |
+| **J** | الدردشة النصية مع جميع اللاعبين |
+| **K** | الدردشة النصية مع فريقك فقط |
+| **L** | الدردشة النصية مع أفراد فرقتك فقط |
+| **Page Up** | قبول الطلب |
+| **Page Down** | رفض الطلب |
+| **V or H** | قناة Local في PR Mumble |
+| **B or 0 \(numpad\)** | قناة راديو الفرقة في PR Mumble (Squad Radio) |
+| **1-9 \(numpad\)** | قناة راديو قائد فرقة معيّن في PR Mumble |
+| **\*\(numpad\)** | قناة راديو جميع قادة الفرق |
+| **/\(numpad\)** | قناة راديو القائد العام |
 
 <div style="text-align: center";>
-<p><b>Mumble Keys</b></div>
+<p><b>أزرار التواصل في Mumble</b></div>
 
 {% figure "../assets/mumblekeys.png" %}
-Keyboard layout for communication keys.
+أماكن أزرار التواصل.
 {% endfigure %}
