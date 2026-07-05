@@ -163,7 +163,7 @@ _إذا كانت بطاقة الرسومات لديك بمستوى الأداء 
 
 فيما يلي بعض روابط منتديات RealityMod التي قد تحتاج إليها في الحالات الشائعة:
 
-* [PR:BF2 Bugs](https://www.realitymod.com/forum/forumdisplay.php?f=26) قسم فرعي مخصص للإبلاغ عن الأخطاء البرمجية.
+* <span dir="ltr">[PR:BF2 Bugs](https://www.realitymod.com/forum/forumdisplay.php?f=26)</span> قسم فرعي مخصص للإبلاغ عن الأخطاء البرمجية.
 * [PR:BF2 Feedback](https://www.realitymod.com/forum/forumdisplay.php?f=252) قسم فرعي لإرسال ملاحظاتك واقتراحاتك حول PR:BF2.
 * [PR:BF2 Support](https://www.realitymod.com/forum/forumdisplay.php?f=27) منتديات مخصصة لجميع المشكلات المتعلقة بتشغيل اللعبة أو تثبيتها، بالإضافة إلى أي أخطاء قد تواجهها.
 * [General Technical Support](https://www.realitymod.com/forum/forumdisplay.php?f=360) قسم مخصص لجميع الاستفسارات والمشكلات التقنية.
