@@ -231,19 +231,19 @@
 | **Medium anti-tank x3سلاح مضاد للدروع متوسطة** | 240 |
 | **Heavy anti-tank x1/سلاح مضاد للدروع ثقيلة** | 90 |
 | **Heavy anti-tank x2سلاح مضاد للدروع ثقيلة** | 180 |
-| **Guided anti tankظسلاح مضاد للدروع موجَّه** | 120 |
+| **Guided anti tankسلاح مضاد للدروع موجَّه** | 120 |
 
 ملاحظة: على الخوادم المحلية، لا يعمل نظام إعادة التذخير بالطريقة الموضحة أعلاه. إذ تتطلب إعادة تعبئة كل خانة من خانات الأسلحة والمعدات 100 نقطة إمداد، بغض النظر عن نوع السلاح أو العنصر
-Requesting a kit costs 250 supply points. Be aware that re-arming an ammo bag at, for example, an ammo box or light/heavy supply crate will cost 200 points.
-The amount of supply points for the supply sources are:
+يكلف طلب كت جديد 250 نقطة إمداد. وانتبه إلى أن إعادة تذخير حقيبة الذخيرة، مثلًا من صندوق ذخيرة أو صندوق إمداد خفيف/ثقيل، تستهلك 200 نقطة إمداد.
+وتكون كمية نقاط الإمداد المتوفرة في مصادر الإمداد كما يلي:
 
-* **Ammo bags :** 205 \(will only count for 43 supply points when used by an asset emplacement like a TOW or mortar for example\).
-* **Ammo boxes :** 500.
-* **Light supply crates :** 1500.
-* **Heavy supply crates :** 3000.
+* **حقيبة الذخيرة**: 205 نقطة إمداد \(لكنها تُحتسب على أنها 43 نقطة إمداد فقط عند استخدامها لتزويد إحدى التمركزات، مثل منصة TOW أو الهاون، بالذخيرة\).
+* **Ammo boxes/صندوق الذخيرة** : 500
+* **Light supply crates/صندوق الإمداد الخفيف:** 1500.
+* **Heavy supply crates/صندوق الإمداد الثقيل:** 3000.
 
 {% note %}
-Resupplying is not instant but takes a few seconds, depending on the ammo source, as well as the amount of ammo you need to resupply. Additionally if you're not rearming, confirm that the Light/Heavy supply crate is indeed yours, rearming from enemy supply crates is not possible.
+إعادة التذخير ليست فورية، بل تستغرق بضع ثوانٍ، ويعتمد ذلك على مصدر الذخيرة وكمية الذخيرة التي تحتاج إلى إعادة تذخيرها. وإذا لم تتم إعادة تذخير أسلحتك، فتأكد أيضًا من أن صندوق الإمداد الخفيف/الثقيل تابع لفريقك، إذ لا يمكن إعادة التذخير من صناديق الإمداد التابعة للعدو.
 {% endnote %}
 
 ### Supply Crates{#crates}
