@@ -149,92 +149,91 @@
 * **صناديق الذخيرة (Ammo Boxes)** - تُسقطها مركبات النقل الخفيفة، وناقلات الجنود المدرعة (APCs)، ومركبات القتال المدرعة للمشاة (IFVs).
 * **صناديق الإمداد الخفيفة/الثقيلة (Light/Heavy Supply Crates)** - تُسقطها بشكل أساسي شاحنات النقل أو الإمداد (المعروفة أيضًا باسم Logis) ومروحيات النقل. ولمزيد من المعلومات، راجع قسم [صناديق الإمداد](the_basics.md#crates).
 * **مخابئ الأسلحة (Weapons Caches)** - متاحة لفريق المتمردين فقط.
-* **Vehicle depot** - Present in all main bases, it also heals you.
+* **مستودع المركبات (Vehicle Depot)** - يوجد في جميع القواعد الرئيسية، ويقوم أيضًا بعلاج اللاعبين.
 
 {% figure "../assets/ammobag.png", "../assets/supplycrate.png", "../assets/inscrate.png", "../assets/cacahe.png", "../assets/depott.png" %}
-Ammunition bag, Coalition forces ammo crate, Insurgent forces ammo crate, weapon cache & Vehicle depot.
+حقيبة الذخيرة (Ammunition Bag)، صندوق ذخيرة قوات التحالف، صندوق ذخيرة قوات المتمردين، مخبأ أسلحة (Weapon Cache)، ومستودع المركبات (Vehicle Depot).
 {% endfigure %}
 
-Be aware that with the exception of **Weapons caches** and **Vehicle depot** all other ammo sources are **limited**. Eventually these sources will deplete and disappear. It is even possible ammo sources deplete before you're completly rearmed.
-**Ammo bags**, **ammo boxes** and **supply crates** use **supply points** to determine how long they can be used. You can find out the remaining supply points of **supply crates** and **ammo boxes** by looking at it for a second. It will then appear next to the compass. 
-The various weapons available in PR require different ammounts of supply points to be replenished. Utility items such as the grappling hook, tripflares and field dressings cost less to resupply per use than explosive ordnance such as anti-tank rockets/missiles, fragmentation grenades and mines. See below tables for the resupply cost of the corresponding weapon category and type:
+انتبه إلى أن جميع مصادر الذخيرة، باستثناء **مخابئ الأسلحة** **ومستودع المركبات**، ذات كمية محدودة. ومع مرور الوقت ستنفد هذه المصادر وتختفي. بل قد تنفد الذخيرة منها قبل أن تنتهي من إعادة تذخير أسلحتك بالكامل.
+تستخدم **حقائب الذخيرة، وصناديق الذخيرة، وصناديق الإمداد نقاط الإمداد (Supply Points)** لتحديد مدة إمكانية استخدامها. ويمكنك معرفة عدد نقاط الإمداد المتبقية في **صناديق الإمداد وصناديق الذخيرة** بالنظر إليها لمدة ثانية تقريبًا، حيث سيظهر عددها بجوار البوصلة. 
+تتطلب الأسلحة المختلفة في PR عددًا متفاوتًا من نقاط الإمداد لإعادة تذخيرها. فالمعدات المساندة، مثل خطاف التسلق، وشعلات الإنذار، والضمادات الميدانية، تستهلك نقاط إمداد أقل لكل استخدام مقارنةً بالذخائر المتفجرة، مثل الصواريخ والقذائف المضادة للدروع، والقنابل اليدوية شديدة الانفجار، والألغام. يوضح الجدولان التاليان تكلفة إعادة التذخير لكل فئة ونوع من الأسلحة والمعدات:
 
 <div style="text-align: center";>
-<p><b>Firearms</b></div>
+<p><b>الأسلحة النارية</b></div>
 
-| **Type** | **Supply points cost** |
+| **النوع** | **تكلفة نقاط الإمداد** |
 | --- | --- |
-| **Pistols low capacity** | 15 |
-| **Pistols high capacity** | 30 |
-| **PDW** | 30 |
-| **SMG** | 45 |
-| **Shotgun primary** | 50 |
-| **Shotgun breacher** | 25 |
-| **Rifle** | 60 |
-| **Sniper** | 40 |
-| **LMG** | 150 |
-| **GPMG** | 200 |
+| **Pistols low capacity/مسدسات منخفضة السعة** | 15 |
+| **Pistols high capacity/مسدسات عالية السعة** | 30 |
+| **PDW/سلاح دفاع شخصي** | 30 |
+| **SMG/رشاش خفيف** | 45 |
+| **Shotgun primary/بندقية خرطوش أساسية** | 50 |
+| **Shotgun breacher/بندقية خرطوش للاقتحام** | 25 |
+| **Rifle/بندقية** | 60 |
+| **Sniper/بندقية قنص** | 40 |
+| **LMG/رشاش خفيف** | 150 |
+| **GPMG/رشاش متوسط** | 200 |
 
 <div style="text-align: center";>
-<p><b>Grenade Launcher/Rifle Grenades</b></div>
+<p><b>قاذفات القنابل والقنابل البندقية</b></div>
 
-| **Type** | **Supply points cost** |
+| **النوع** | **تكلفة نقاط الإمداد** |
 | --- | --- |
-| **Anti-Tank x1** | 70 |
-| **Anti-Tank x2** | 140 |
-| **Flare** | 60 |
-| **Fragmentation low capacity** | 80 |
-| **Fragmentation high capacity** | 120 |
-| **Smoke** | 60 |
+| **Anti-Tank x1/مضاد للدروع** | 70 |
+| **Anti-Tank x2/مضاد للدروع** | 140 |
+| **Flare/شعلة** | 60 |
+| **Fragmentation low capacity/قنابل يدوية شديدة الانفجار (سعة منخفضة)** | 80 |
+| **Fragmentation high capacity/قنابل يدوية شديدة الانفجار (سعة عالية)** | 120 |
+| **Smoke/قنبلة دخانية** | 60 |
 
 <div style="text-align: center";>
-<p><b>Items & Utilities</b></div>
+<p><b>المعدات والأدوات</b></div>
 
-| **Type** | **Supply points cost** |
+| **النوع** | **تكلفة نقاط الإمداد** |
 | --- | --- |
-| **Ammo box** | 200 |
-| **C4 low capacity** | 45 |
-| **C4 high capacity** | 75 |
-| **Tripflare** | 20 |
-| **Grappling hook** | 40 |
-| **Epipen** | 60 |
-| **Field dressing x1** | 30 |
-| **Field dressing x3** | 75 |
-| **Field dressing x6** | 120 |
-| **Field dressing x12** | 180 |
+| **Ammo box/صندوق ذخيرة** | 200 |
+| **C4 low capacity/عبوة C4 (سعة منخفضة)** | 45 |
+| **C4 high capacity/عبوة C4 (سعة عالية)** | 75 |
+| **Tripflare/شعلة إنذار** | 20 |
+| **Grappling hook/خطاف تسلق** | 40 |
+| **Epipen/قلم الإبينفرين** | 60 |
+| **Field dressing x1/ضمادة ميدانية** | 30 |
+| **Field dressing x3/ضمادة ميدانية** | 75 |
+| **Field dressing x6/ضمادة ميدانية** | 120 |
+| **Field dressing x12/ضمادة ميدانية** | 180 |
 
 <div style="text-align: center";>
-<p><b>Heavy ordnance & munitions</b></div>
+<p><b>الذخائر الثقيلة</b></div>
 
-| **Type** | **Supply points cost** |
+| **النوع** | **تكلفة نقاط الإمداد** |
 | --- | --- |
-| **Fragmentation grenade x1** | 60 |
-| **Fragmentation grenade x2** | 120 |
-| **Fragmentation grenade x4** | 240 |
-| **Smoke grenade low capacity** | 40 |
-| **Smoke grenade high capacity** | 60 |
-| **Signal smoke grenade** | 30 |
-| **Anti-personel mine x2** | 140 |
-| **Anti-personel mine x3** | 210 |
-| **Conventional mine** | 420 |
-| **Insurgent mine** | 160 |
-| **Light IED** | 60 |
-| **Heavy IED** | 80 |
-| **Anti-air missile x1** | 100 |
-| **Anti-air missile x2** | 170 |
-| **Light anti-tank x1** | 70 |
-| **Light anti-tank x2** | 140 |
-| **Light anti-tank x3** | 210 |
-| **Light anti-tank x4** | 280 |
-| **Medium anti-tank x1** | 80 |
-| **Medium anti-tank x2** | 160 |
-| **Medium anti-tank x3** | 240 |
-| **Heavy anti-tank x1** | 90 |
-| **Heavy anti-tank x2** | 180 |
-| **Guided anti tank** | 120 |
+| **Fragmentation grenade x1/قنبلة يدوية شديدة الانفجار** | 60 |
+| **Fragmentation grenade x2/قنبلة يدوية شديدة الانفجار** | 120 |
+| **Fragmentation grenade x4/قنبلة يدوية شديدة الانفجار** | 240 |
+| **Smoke grenade low capacity/قنبلة دخانية (سعة منخفضة)** | 40 |
+| **Smoke grenade high capacity/قنبلة دخانية (سعة عالية)** | 60 |
+| **Signal smoke grenade/قنبلة دخانية للإشارة** | 30 |
+| **Anti-personel mine x2/لغم مضاد للأفراد** | 140 |
+| **Anti-personel mine x3/لغم مضاد للأفراد** | 210 |
+| **Conventional mine/لغم تقليدي** | 420 |
+| **Insurgent mine/لغم متمردين** | 160 |
+| **Light IED/عبوة ناسفة خفيفة** | 60 |
+| **Heavy IED/عبوة ناسفة ثقيلة** | 80 |
+| **Anti-air missile x1/صاروخ مضاد للطائرات** | 100 |
+| **Anti-air missile x2/صاروخ مضاد للطائرات** | 170 |
+| **Light anti-tank x1/سلاح مضاد للدروع خفيفة** | 70 |
+| **Light anti-tank x2/سلاح مضاد للدروع خفيفة** | 140 |
+| **Light anti-tank x3/سلاح مضاد للدروع خفيفة** | 210 |
+| **Light anti-tank x4/سلاح مضاد للدروع خفيفة** | 280 |
+| **Medium anti-tank x1/سلاح مضاد للدروع متوسطة** | 80 |
+| **Medium anti-tank x2سلاح مضاد للدروع متوسطة** | 160 |
+| **Medium anti-tank x3سلاح مضاد للدروع متوسطة** | 240 |
+| **Heavy anti-tank x1/سلاح مضاد للدروع ثقيلة** | 90 |
+| **Heavy anti-tank x2سلاح مضاد للدروع ثقيلة** | 180 |
+| **Guided anti tankظسلاح مضاد للدروع موجَّه** | 120 |
 
-Note that on a local server the resupply system will not work as described. Every weapon slot will require 100 supply points to refill regardless of item type.
-
+ملاحظة: على الخوادم المحلية، لا يعمل نظام إعادة التذخير بالطريقة الموضحة أعلاه. إذ تتطلب إعادة تعبئة كل خانة من خانات الأسلحة والمعدات 100 نقطة إمداد، بغض النظر عن نوع السلاح أو العنصر
 Requesting a kit costs 250 supply points. Be aware that re-arming an ammo bag at, for example, an ammo box or light/heavy supply crate will cost 200 points.
 The amount of supply points for the supply sources are:
 
