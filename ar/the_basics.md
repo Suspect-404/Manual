@@ -108,11 +108,11 @@
 
 إذا لم تتمكن من تلقي العلاج في الوقت المناسب، فستفقد الوعي، وستظهر على الشاشة رسالة تفيد بأنك أُصبت إصابةً حرجة (wounded). وهذا لا يعني أنك ميت! إذ يستطيع المسعف إنعاشك خلال مدة تصل إلى 5 دقائق، مما يوفر على فريقك تذاكر ثمينة. يمكنك استخدام الدردشة الصوتية لتوجيه المسعف إلى موقعك، وذلك عبر **القناة المحلية (H)** أو **شبكة اتصال الفرقة (Numpad 0)**. كما يمكنك الضغط على **Call Medic** لتحديد موقعك مؤقتًا على خريطة جميع المسعفين في الفريق.
 
-In order to revive you, the medic will select the **epipen** from their weapon selection \(default: **5**\) and with the epipen in hand, inject and administer the epinephrine shot to the central mass area of the unconscious player's torso by clicking and holding down left mouse button. The player will then become conscious but will only be at about 10% health and will still need healing. The medic and the recently revived player should find a safe area and continue the healing process there.
+لإنعاشك، يختار المسعف **قلم الإبينفرين** من قائمة الأسلحة والمعدات **(الزر الافتراضي: 5)**. وبعد تجهيزه، يحقن جرعة الإبينفرين في منطقة منتصف صدر اللاعب فاقد الوعي، وذلك بالضغط مطولًا على زر الفأرة الأيسر. بعد ذلك، يستعيد اللاعب وعيه، لكنه لن يمتلك سوى حوالي 10٪ من صحته، وسيظل بحاجة إلى العلاج. لذلك، ينبغي على المسعف واللاعب الذي أُنعش حديثًا الانتقال إلى مكان آمن لمواصلة العلاج.
 
-If the player is stuck on uneven ground or in a bad position for reviving, it is required to drag the wounded body into a better position first. To drag a body as medic you need to be in the crouched position and stay in it. Then you can use the **drag** weapon slot\(default: **2**\) to start dragging. You can drag in all directions including backwards. 
+إذا كان اللاعب فاقد الوعي عالقًا على أرض غير مستوية أو في موضع يصعب إنعاشه، فيجب أولًا سحب جسده إلى مكان مناسب. وللقيام بذلك، يجب على المسعف أن يكون في وضعية القرفصاء وأن يبقى فيها، ثم يختار **Drag** من خانة الأسلحة والمعدات **(الزر الافتراضي: 2)** لبدء سحب المصاب. ويمكن سحب الجسد في جميع الاتجاهات، بما في ذلك إلى الخلف. 
 
-{{ "Video Tutorial - Reviving" | youtube("auBgiI8IxWE") }}
+{{ "فيديو تعليمي – الإنعاش" | youtube("auBgiI8IxWE") }}
 
 ### Death
 
