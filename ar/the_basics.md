@@ -350,14 +350,14 @@
 أنواع مختلفة من الجسور (الأيقونات ليست بالمقياس الحقيقي).
 {% endfigure %}
 
-## _Battlefield Navigation_ {#battlefield-navigation}
+## _التنقل في ساحة المعركة_ {#battlefield-navigation}
 
-It is pretty easy to get lost on the large maps of PR:BF2. The slow pacing and team coordination also requires players to communicate locations in a clear and concise manner. PR:BF2 offers 4 tools to aid players with this.
+من السهل أن تتيه في الخرائط الكبيرة في PR:BF2. كما أن وتيرة اللعب البطيئة واعتمادها على العمل الجماعي تتطلب من اللاعبين تحديد المواقع والتواصل بشأنها بوضوح ودقة. وللمساعدة في ذلك، يوفر PR:BF2 أربع أدوات تساعد اللاعبين على التنقل وتحديد المواقع.
 
-1. Squad leaders can use their **squad order marker** to communicate locations to their squad and the commander. The direction to the marker is indicated by a chevron above the compass. If you are within 75m of the marker you'll also see a 3D icon which shows the location in front of you. The marker will also be visible on the map.
+1. يستطيع قادة الفرق استخدام علامة **أوامر الفرقة** لتحديد المواقع وإبلاغ أفراد فرقتهم والقائد بها. ويُعرض اتجاه العلامة بواسطة سهم يظهر أعلى البوصلة. وإذا كنت على بُعد 75 مترًا أو أقل منها، فستظهر أيضًا أيقونة ثلاثية الأبعاد توضح موقعها أمامك مباشرةً. كما ستكون العلامة مرئية على الخريطة.
 
 {% figure "../assets/target.png", "../assets/build.png", "../assets/observe.png", "../assets/defendmarker.png", "../assets/demolish.png", "../assets/move.png" %}
-Targe, build, observe, defend, demolish and move marker, respectively.
+من اليسار إلى اليمين: علامة الهدف، وعلامة البناء، وعلامة المراقبة، وعلامة الدفاع، وعلامة التدمير، وعلامة التحرك.
 {% endfigure %}
 
 1. A **precision degree compass** to the bottom central area of your screen. The compass can be used to give exact bearings of nearby spotted enemies. **The 8 Cardinal Directions** are clearly indicated along with the degree bearing labels which incrementally increase every 15° with major divisions every 5°. If you just want to communicate a general direction it is best practice to say the cardinal direction, followed by the degree and in some situations the distance if appropriate. For example _**“Enemy spotted NE 75° degrees 200 meters out”**_**.**
