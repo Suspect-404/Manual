@@ -439,22 +439,22 @@
 ختلف نقاط الدخول باختلاف نوع المركبة. ابحث عن الأبواب أو الفتحات المخصصة للدخول.
 {% endfigure %}
 
-* Normal soldiers are allowed to drive small unarmored vehicles such as jeeps, trucks and boats without the need for any specialized kit. If you require **a crewman or pilot kit** to operate a vehicle position, you will receive a warning message upon entering it and the screen will fade to black. If you do not exit the vehicle position within a few seconds, you will die.
-* When exiting **a moving or burning vehicle** you will become wounded and possibly die. The faster the vehicle moves the greater the chance of death.
-* **Destroying vehicle wrecks** does not influence score although a warning message states otherwise when shooting friendly wrecks.
-* When manning **stationary or vehicle weapons** it takes a specific warm up time before they have the ability to fire:
-  * MG: **5 seconds**
-  * Anti-Air Missile: **5 seconds**
-  * AT-emplacement: **10 seconds**
-  * Armor main cannon: **30 seconds**
-* Most Stationary AT-Weapons have optics with fixed zoom capability \(default: **X**\). Some of them even offer thermal optics \(default: hold **T**\).
-* Exiting vehicles in mid-air and falling into water from high altitudes will injure you and may result in your death.
-* Players can **request kits** from an APC’s/IFV’s entry position.
-* Armored vehicles are more vulnerable when attacked from their flanks. The armor on the rear of the vehicle is the weakest. A single well-placed anti-tank projectile can disable or take them out.
-* On public servers \(not in local gamemodes\) you can quickly switch to the next available free seat in a vehicle by pressing **F8**.
-* When in a vehicle, you can see the information on the occupied seats in the bottom left of the the HUD. It shows only important crew seats as squared markers. This includes driver and gunner positions. Passenger seats do not have such markers and are shown as a seperate counter.
+* يُسمح للجنود العاديين بقيادة المركبات الصغيرة غير المدرعة، مثل الجيب والشاحنات والقوارب، دون الحاجة إلى كت متخصصة. أما إذا كانت قيادة مركبة أو شغل أحد مواقعها يتطلب كت طاقم مركبة **(Crewman Kit)** أو كت طيار **(Pilot Kit)**، فستظهر لك رسالة تحذير عند دخولها، ثم ستُظلم الشاشة تدريجيًا. وإذا لم تغادر ذلك الموقع خلال بضع ثوانٍ، ستموت شخصيتك داخل اللعبة.
+* عند مغادرة **مركبة متحركة أو مشتعلة**، ستُصاب بجروح وقد يؤدي ذلك إلى موتك. وكلما كانت سرعة المركبة أعلى، زادت احتمالية الوفاة.
+* **تدمير حطام المركبات** لا يؤثر على النقاط، حتى وإن ظهرت رسالة تحذير عند إطلاق النار على حطام مركبة صديقة.
+* عند تشغيل الأسلحة الثابتة أو أسلحة المركبات، يجب الانتظار لمدة معينة حتى تصبح جاهزة لإطلاق النار:
+  * لرشاش (MG): **5 ثوانٍ**
+  * الصاروخ المضاد للطائرات (Anti-Air Missile): **5 ثوانٍ**
+  * لمنصة المضادة للدبابات (AT Emplacement): **10 ثوانٍ**
+  * لمدفع الرئيسي للمركبات المدرعة: **30 ثانية**
+* تمتلك معظم الأسلحة الثابتة المضادة للدبابات (Stationary AT Weapons) منظارًا بتكبير ثابت **(الزر الافتراضي: X)**. كما يوفّر بعضها منظارًا حراريًا يمكن تفعيله بالضغط المطول على **T**.
+* سيؤدي القفز من المركبات وهي في الجو أو السقوط في الماء من ارتفاعات كبيرة إلى إصابتك، وقد يتسبب في وفاتك.
+* يمكن للاعبين **طلب الكت** من نقطة الدخول الخاصة بناقلة الجنود المدرعة (APC) أو مركبة القتال للمشاة (IFV).
+*تكون المركبات المدرعة أكثر عرضة للتضرر عند استهدافها من الجوانب، بينما يُعد الجزء الخلفي أضعف مناطق التدريع فيها. وقد تتمكن قذيفة واحدة مضادة للدبابات إذا أصابت المكان المناسب من تعطيل المركبة أو تدميرها.
+* في الخوادم العامة (وليس عند اللعب محليًا)، يمكنك الانتقال بسرعة إلى المقعد المتاح التالي داخل المركبة بالضغط على **F8**.
+* أثناء وجودك داخل مركبة، ستظهر في أسفل يسار واجهة اللعب معلومات عن المقاعد المشغولة. وتُعرض مقاعد الطاقم الأساسية، مثل مقعد السائق والرامي، على شكل مربعات، بينما لا تُعرض مقاعد الركاب بهذه الطريقة، وإنما يظهر عدد الركاب في عداد منفصل.
 
 {% figure "../assets/seaticons.png" %}
-Important crew members are shown as squared markers. Passengers use a total counter above the vehicle icon.
+تظهر مقاعد الطاقم الأساسية على شكل مربعات، بينما يُعرض عدد الركاب في عداد أعلى أيقونة المركبة.
 {% endfigure %}
 
