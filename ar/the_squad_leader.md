@@ -53,25 +53,25 @@
 * أن تكون ضمن مسافة تعادل مربعين كبيرين من شبكة الخريطة من قاعدة عمليات أمامية (FOB) صديقة
 * أن تكون ضمن مسافة تعادل مربعين كبيرين من شبكة الخريطة من ناقلة جنود مدرعة (APC) أو مركبة قتال مشاة (IFV) صديقة، بشرط أن تكون من المركبات التي تتيح طلب الكت.
 
-An enemy that comes within 50m on 1x1km maps or 125m on 2x2km and 4x4km maps from the rally point will disable it. On larger maps it is 600m.
+إذا اقترب أحد أفراد العدو من نقطة التجمع لمسافة تقل عن 50 مترًا في خرائط 1×1 كم، أو 125 مترًا في خرائط 2×2 كم و4×4 كم، فسيتم تعطيلها. أما في الخرائط الأكبر، فتزداد هذه المسافة إلى 600 متر.
 
-A rally point rearms every 1 minute. Unless it has become overrun, in which case you need to wait 5 minutes. Alternatively you can rearm an RP by getting close \(25m\) to a **friendly and active** FOB, vehicle depot or ACV.
+تُعاد تهيئة نقطة التجمع تلقائيًا كل دقيقة. أما إذا تعرضت للاجتياح من قبل الاعداء، فسيتعين عليك الانتظار 5 دقائق قبل أن تصبح صالحة للاستخدام مرة أخرى. ويمكن أيضًا إعادة تهيئة نقطة التجمع بالاقتراب لمسافة 25 مترًا من قاعدة عمليات أمامية (FOB) أو مستودع مركبات أو مركبة ACV، بشرط أن تكون **صديقة ونشطة**.
 
-## _Requesting Support_ {#requesting-support}
+## _طلب الدعم_ {#requesting-support}
 
-The squad leader can also use his radio to request support from other squads. To do so he must activate his radio and then press **the secondary radio key \(T\).** This will open up the menu for requesting support and deploying team assets. The lower five commands starting with **“NEED ...”** will place a map marker at your position. They also transmit a radio message to your team to alert them of your request. The **“NEED AREA ATTACK”** request behaves a bit different from the rest. On some maps conventional forces can use this command to request an **artillery barrage**. If your request is approved by the team's commander, the attack will strike after about one minute. After loading a new map or executing an area attack it takes 30 minutes until it is available again. Similarly unconventional factions have access to a mortar barrage every 20 minutes on most maps.
+يمكن لقائد الفرقة أيضًا استخدام جهاز الراديو لطلب الدعم من بقية الفرق. وللقيام بذلك، فعِّل جهاز الراديو، ثم اضغط **زر الراديو الثانوي (T)**. سيؤدي ذلك إلى فتح قائمة طلب الدعم وأوامر الدعم الخاصة بالفريق. ستؤدي الأوامر الخمسة السفلية التي تبدأ بـ **"NEED ..."** إلى وضع علامة على موقعك في الخريطة، كما ستُرسل رسالة لاسلكية إلى فريقك لإبلاغهم بطلبك. يختلف أمر **"NEED AREA ATTACK"** عن بقية الأوامر قليلًا. ففي بعض الخرائط، تستطيع القوات النظامية استخدام هذا الأمر لطلب قصف مدفعي. وإذا وافق القائد العام على الطلب، فسيبدأ القصف بعد حوالي دقيقة واحدة. بعد تحميل خريطة جديدة أو تنفيذ قصف مدفعي، يجب الانتظار 30 دقيقة قبل أن يصبح هذا الطلب متاحًا مرة أخرى. وبالمثل، تمتلك الفصائل غير النظامية في معظم الخرائط إمكانية طلب قصف بالهاون مرة كل 20 دقيقة.
 
 
 {% figure "../assets/support.png" %}
-Requesting support through radio.
+طلب الدعم عبر جهاز الراديو.
 {% endfigure %}
 
-## _Construction Work_ {#construction-work}
+## _بناء المنشآت_ {#construction-work}
 
-Constructing assets is an essential functionality of the Squad Leader, which the team's Commander also possesses. When deploying and constructing a Forward Operating Base \(FOB\) a Squad Leader needs to have an officer kit and 1 heavy supply crate \(or 2 light supply crates which offer the same capabilities\) within a 50m radius of his vicinity. Insurgents, Taliban and the Hamas can only deploy hideouts, mortars and anti-tank positions for their team which do not require supplies to build these structures. To perform this function either a cell leader or collaborator kit is necessary. Unlike requesting kits from supply crates, building structures does not deplete any supply points from the crates used.
+يُعد بناء المنشآت من المهام الأساسية لقائد الفرقة، كما يستطيع القائد العام أيضًا تنفيذها. لنشر وبناء قاعدة عمليات أمامية (FOB)، يجب أن يكون قائد الفرقة مزودًا بكت _ال_ Officer، وأن توجد صندوق إمداد ثقيل واحد (أو صندوقا إمداد خفيفان، إذ يقدمان القدرات نفسها) ضمن نطاق 50 مترًا منه. ما المتمردون العراقيون وطالبان وحماس، فلا يمكنهم سوى إنشاء المخابئ (Hideouts) وقواعد الهاون ومواقع مضادات الدروع لفريقهم، ولا تتطلب هذه المنشآت أي إمدادات لبنائها. ولتنفيذ ذلك، يجب أن يكون اللاعب مزودًا بكت قائد الخلية (Cell Leader) أو المتعاون (Collaborator).وعلى عكس طلب العكت من صناديق الإمداد، فإن بناء المنشآت لا يستهلك أي نقاط إمداد من الصناديق المستخدمة.
 
 {% figure "../assets/buildcomo.png" %}
-Building assets through radio.
+قائمة بناء المنشآت عبر جهاز الراديو.
 {% endfigure %}
 
 To deploy a structure follow these steps:
