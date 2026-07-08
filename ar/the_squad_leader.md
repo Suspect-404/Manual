@@ -102,33 +102,33 @@
 
 فيما يلي قائمة بالمنشآت القابلة للنشر، بالإضافة إلى متطلبات بنائها. يمكن تفكيك المنشآت القابلة للنشر باستخدام المجرفة العسكرية، كما يمكن تدميرها باستخدام عبوات C4 أو العبوات الناسفة المرتجلة (IED) أو قذائف الدبابات أو قذائف ناقلات الجنود المدرعة (APC) أو قذائف الهاون أو أي نوع آخر من الذخائر الثقيلة. كما يمكن تدمير المنشآت القابلة للنشر بالكامل بمواصلة إلحاق الضرر بقاعدتها. أما قواعد العمليات الأمامية (FOB) والمخابئ (Hideouts)، فيمكن أيضًا تدميرها باستخدام الذخائر الثقيلة أو عبوات C4 أو متفجرات TNT.
 
-An important note on the requirements and limitations listed below is that all values about distance to an FOB and the maximum amount of assets per FOB are doubled on the CNC gamemode \(except for the amount of mortars\). Also remember that 2 large supply crates can also be replaced by 4 small supply crates or 1 large and 2 small crates. To learn more about logistics and crates see [the logistics chapter](the_basics.md#logistics).
+ملاحظة مهمة: تنطبق المتطلبات والقيود الواردة أدناه على جميع أنماط اللعب، باستثناء نمط CNC، حيث تتضاعف جميع القيم المتعلقة بالمسافة عن قاعدة العمليات الأمامية (FOB) والحد الأقصى لعدد المنشآت المسموح بها لكل FOB (باستثناء عدد الهاونات، الذي لا يتغير). وتذكر أيضًا أن صندوقي إمداد ثقيلين يمكن استبدالهما بـ أربعة صناديق إمداد خفيفة، أو بـ صندوق إمداد ثقيل واحد وصندوقي إمداد خفيفين. لمعرفة المزيد عن نظام الإمداد وصناديق الإمداد، راجع فصل [اللوجستيات](the_basics.md#logistics).
 
-**Forward Operating Base \(FOB\):** The forward operating base, also known as a forward outpost, serves as a defensive spawn position for the team. It comes online 90 seconds after being build. It becomes unspawnable for 30 seconds if 1 enemy is within 10m, 2 enemies are within 50m, 4 enemies within 100m or 8 enemies within 150m. Requirements and limitations:
+**قاعدة العمليات الأمامية (FOB)**: قاعدة العمليات الأمامية، والتي تُعرف أيضًا باسم النقطة الأمامية (Forward Outpost)، تُستخدم كنقطة إعادة ظهور دفاعية للفريق. وتصبح جاهزة للعمل بعد 90 ثانية من اكتمال بنائها. يُعطَّل الظهور منها لمدة 30 ثانية إذا تحقق أحد الشروط التالية:وجود عدو واحد ضمن 10 أمتار، وجود عدوين ضمن 50 مترًا، وجود 4 أعداء ضمن 100 متر، وجود 8 أعداء ضمن 150 مترًا، المتطلبات والقيود: 
 
-* Must be constructed within 50m of a friendly large supply crate.
-* The team may have a total of 6 forward outposts at the same time.
-* Must be constructed at least 200m from other forward outposts and the team's HQ.
-* Must be constructed at least 10m away from the map border \(200m on CNC\).
+* يجب بناؤها على بُعد 50 مترًا أو أقل من صندوق إمداد ثقيل صديق.
+* يمكن للفريق امتلاك 6 قواعد عمليات أمامية كحد أقصى في الوقت نفسه.
+* جب أن تبعد 200 متر على الأقل عن أي قاعدة عمليات أمامية أخرى أو عن المقر الرئيسي للفريق.
+* يجب أن تبعد 10 أمتار على الأقل عن حدود الخريطة (أو 200 متر في نمط CNC).
 
 {% figure "../assets/fobb.png" %}
 {% endfigure %}
 
-**Hideout:** Insurgents use hideouts as a spawn location. If 2 or more enemies are close by \(within 50m\), spawning is disabled until 90 seconds after they leave or die. Requirements and limitations:
+**المخبأ (Hideout)**:يستخدم المتمردون المخابئ كنقاط لإعادة الظهور. وإذا اقترب عدوان أو أكثر إلى مسافة 50 مترًا أو أقل من المخبأ، فسيتم تعطيل إعادة الظهور منه، ولن يعود متاحًا إلا بعد 90 ثانية من مغادرتهم المنطقة أو مقتلهم. المتطلبات والقيود: 
 
-* The team may have up to 6 hideouts at the same time.
-* Requested further than 200m from the closest hideout and the insurgent HQ.
-* Must be constructed at least 10m away from the map border.
+* يمكن للفريق امتلاك 6 مخابئ كحد أقصى في الوقت نفسه.
+* يجب إنشاؤه على بُعد 200 متر على الأقل من أقرب مخبأ ومن المقر الرئيسي للمتمردين.
+* يجب إنشاؤه على بُعد 10 أمتار على الأقل من حدود الخريطة.
 
 {% figure "../assets/hideoutt.png" %}
 {% endfigure %}
 
-**Heavy MG:** A deployable heavy machine gun. Requirements and limitations:
+**الرشاش الثقيل (Heavy MG)**: رشاش ثقيل قابل للنشر. المتطلبات والقيود:
 
-* Must be placed within 200m of a FOB / hideout and at least 200m away from the team's CO-Post and 50m away from Vehicle Depot.
-* 2 large supply crates must be within 200m.
-* Only 2 MG’s per FOB and within 200m radius.
-* The team can have up to 12 heavy MGs.
+* يجب نشره على بُعد 200 متر أو أقل من قاعدة عمليات أمامية (FOB) أو مخبأ (Hideout)، وأن يبعد 200 متر على الأقل عن موقع القائد العام، و50 مترًا على الأقل عن مستودع المركبات.
+* يجب وجود صندوقي إمداد ثقيلين ضمن 200 متر منه.
+* يُسمح بوجود رشاشين ثقيلين كحد أقصى لكل FOB ضمن نطاق 200 متر.
+* يمكن للفريق امتلاك 12 رشاشًا ثقيلًا كحد أقصى.
 
 {% figure "../assets/hmg.png" %}
 {% endfigure %}
