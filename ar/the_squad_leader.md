@@ -199,19 +199,20 @@
 
 حاجز طريق (للفصائل غير النظامية): حاجز لإغلاق الطريق مصنوع من الركام والمخلفات، بعرض 5 أو 10 أمتار (باستخدام زر الفأرة الأيمن أو الأيسر). المتطلبات والقيود:
 
-*يجب نشره على بُعد 200 متر على الأقل من موقع القائد العام، و50 مترًا على الأقل عن مستودع المركبات.
+* يجب نشره على بُعد 200 متر على الأقل من موقع القائد العام، و50 مترًا على الأقل عن مستودع المركبات.
 * سمح بوجود 9 عناصر كحد أقصى من الحواجز الطرقية أو الأسلاك الشائكة الحلزونية أو خنادق الرماية أو الجدران الرملية ضمن 200 متر.
 * يمكن للفريق امتلاك 100 حاجز طريقي كحد أقصى.
 
 {% figure "../assets/roadblock.png" %}
 {% endfigure %}
 
-**Mortar:** A fixed mortar position that can provide indirect fire support over long distances. All factions can fire high-explosive rounds. Conventional forces and the militia can also use air-burst and smoke rounds. Mortars cannot be constructed on maps smaller than 2km. Requirements and limitations:
+**الهاون (Mortar)**:
+منصة هاون ثابتة توفر إسنادًا ناريًا غير مباشر لمسافات بعيدة. تستطيع جميع الفصائل استخدام قذائف شديدة الانفجار (HE)، بينما تستطيع القوات النظامية والميليشيا أيضًا استخدام قذائف الانفجار الجوي (Airburst) والقذائف الدخانية. لا يمكن بناء الهاونات في الخرائط التي يقل حجمها عن 2 كم. المتطلبات والقيود:
 
-* Must be placed within 200m of a FOB / hideout and at least 200m away from the team's CO-Post and 50m away from Vehicle Depot.
-* 2 large supply crates must be within 200m \(only needed for conventional forces, militia and Syrian Rebels\).
-* The team can have up to 2 mortar positions at the same time.
-* Both mortar positions must be placed within 50m of each other.
+* يجب نشرها على بُعد 200 متر أو أقل من قاعدة عمليات أمامية (FOB) أو مخبأ (Hideout)، وأن تبعد 200 متر على الأقل عن موقع القائد العام، و50 مترًا على الأقل عن مستودع المركبات.
+* يجب وجود صندوقي إمداد ثقيلين ضمن 200 متر منها (ينطبق هذا الشرط فقط على القوات النظامية والميليشيا والثوار السوريين).
+* يمكن للفريق امتلاك منصتي هاون كحد أقصى في الوقت نفسه.
+* يجب أن تكون منصتا الهاون على بُعد 50 مترًا أو أقل من بعضهما البعض.
 
 {% figure "../assets/mortarss.png" %}
 {% endfigure %}
