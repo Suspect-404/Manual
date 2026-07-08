@@ -133,72 +133,75 @@
 {% figure "../assets/hmg.png" %}
 {% endfigure %}
 
-**Anti-Tank \(ATGM\):** A deployable anti-tank missile launcher. This weapon features thermal imaging and 1 fixed level of magnification. Reloading takes 15s. Requirements and limitations:
+**منصة الصواريخ المضادة للدروع (ATGM)**:
+منصة قابلة للنشر لإطلاق الصواريخ المضادة للدروع. مزودة بمنظار حراري ومستوى تكبير ثابت واحد. وتستغرق 15 ثانية لإعادة التلقيم. المتطلبات والقيود:
 
-* Must be placed within 200m of a FOB / hideout and at least 200m away from the team's CO-Post and 50m away from Vehicle Depot.
-* 2 large supply crates must be within 200m.
-* No other anti-tank emplacement may be within 200m distance and on that FOB.
-* The team can have up to 3 anti-tank positions at the same time.
+* يجب نشرها على بُعد 200 متر أو أقل من قاعدة عمليات أمامية (FOB) أو مخبأ (Hideout)، وأن تبعد 200 متر على الأقل عن موقع القائد العام، و50 مترًا على الأقل عن مستودع المركبات.
+* يجب وجود صندوقي إمداد ثقيلين ضمن 200 متر منه.
+* لا يجوز وجود أي منصة أخرى مضادة للدروع ضمن 200 متر منها أو تابعة لقاعدة العمليات الأمامية (FOB) نفسها.
+* يمكن للفريق امتلاك 3 منصات مضادة للدروع كحد أقصى في الوقت نفسه.
 
 {% figure "../assets/tow.png" %}
 {% endfigure %}
 
-**Anti-Tank \(unconventional forces\):** The SPG9 AT-launcher only has a narrow range of traverse. It can shoot two types of ammunition and takes 10s to reload. Requirements and limitations:
+**المنصة المضادة للدروع (للفصائل غير النظامية)**:
+تتميز قاذفة SPG-9 المضادة للدروع بزاوية حركة أفقية محدودة، ويمكنها إطلاق نوعين من الذخيرة، وتستغرق 10 ثوانٍ لإعادة التلقيم. المتطلبات والقيود:
 
-* Must be placed within 200m of a FOB / hideout and at least 200m away from the team's CO-Post and 50m away from Vehicle Depot.
-* 2 large supply crates must be within 200m \(only for the militia and Syrian Rebels\).
-* No other anti-tank emplacement may be within 200m distance and on that FOB.
-* The team can have up to 3 anti-tank positions at the same time.
+* يجب نشرها على بُعد 200 متر أو أقل من قاعدة عمليات أمامية (FOB) أو مخبأ (Hideout)، وأن تبعد 200 متر على الأقل عن موقع القائد العام، و50 مترًا على الأقل عن مستودع المركبات.
+* يجب وجود صندوقي إمداد ثقيلين ضمن 200 متر منها (ينطبق هذا الشرط فقط على الميليشيا والثوار السوريين).
+* لا يجوز وجود أي منصة أخرى مضادة للدروع ضمن 200 متر منها أو تابعة لقاعدة العمليات الأمامية (FOB) نفسها.
+* يمكن للفريق امتلاك 3 منصات مضادة للدروع كحد أقصى في الوقت نفسه.
 
 {% figure "../assets/spg.png" %}
 {% endfigure %}
 
-**Anti-Air:** A deployable surface-to-air missile launcher. Requirements and limitations:
+**مضاد الطائرات (Anti-Air)**:
+منصة قابلة للنشر لإطلاق صواريخ أرض–جو. المتطلبات والقيود:
 
-* Must be placed within 200m of a FOB / hideout and at least 200m away from the team's CO-Post and 50m away from Vehicle Depot.
-* 2 large supply crates must be within 200m.
-* No other anti-air emplacement may be within 200m distance and on that FOB.
-* The team can have up to 6 anti-air emplacements.
-* Unconventential forces get a DShK machine gun on a tripod as anti-air emplacement. 
+* يجب نشرها على بُعد 200 متر أو أقل من قاعدة عمليات أمامية (FOB) أو مخبأ (Hideout)، وأن تبعد 200 متر على الأقل عن موقع القائد العام، و50 مترًا على الأقل عن مستودع المركبات.
+* يجب وجود صندوقي إمداد ثقيلين ضمن 200 متر منها.
+* لا يجوز وجود أي منصة أخرى مضادة للطائرات ضمن 200 متر منها أو تابعة لقاعدة العمليات الأمامية (FOB) نفسها.
+* يمكن للفريق امتلاك 6 منصات مضادة للطائرات كحد أقصى.
+* تحصل الفصائل غير النظامية على رشاش دوشكة المثبت على حامل ثلاثي القوائم ليؤدي دور منصة مضادة للطائرات. 
 
 {% figure "../assets/aaa.png" %}
 {% endfigure %}
 
-**Foxhole:** A sandbag fortified foxhole provides cover against small arms and artillery strikes. Requirements and limitations:
+**خندق الرماية (Foxhole)**: يوفر خندق الرماية المحصن بأكياس الرمل حماية من نيران الأسلحة الخفيفة والقصف المدفعي. المتطلبات والقيود:
 
-* Must be placed within 200m of a FOB / hideout and at least 200m away from the team's CO-Post and 50m away from Vehicle Depot.
-* 2 large supply crates must be within 200m.
-* A maximum of 9 other foxholes, sandbags or segments of razor wire are within 200m and on that FOB.
-* The team can have up to 60 foxholes, sandbag-walls, segments of razor wires in total.
+* يجب نشره على بُعد 200 متر أو أقل من قاعدة عمليات أمامية (FOB) أو مخبأ (Hideout)، وأن يبعد 200 متر على الأقل عن موقع القائد العام، و50 مترًا على الأقل عن مستودع المركبات.
+* يجب وجود صندوقي إمداد ثقيلين ضمن 200 متر منه.
+* يُسمح بوجود 9 عناصر أخرى كحد أقصى من خنادق الرماية أو الجدران الرملية أو مقاطع الأسلاك الشائكة الحلزونية (Razor Wire) ضمن 200 متر وتابعة لقاعدة العمليات الأمامية (FOB) نفسها.
+* يمكن للفريق امتلاك 60 عنصرًا كحد أقصى من خنادق الرماية والجدران الرملية ومقاطع الأسلاك الشائكة الحلزونية مجتمعة.
 
 {% figure "../assets/foxhole.png" %}
 {% endfigure %}
 
-**Sandbag-wall:** A sandbag wall is a small 5m long wall made of sandbags to hide behind and use as cover against small arms. Requirements and limitations:
+**الجدار الرملي (Sandbag Wall)**: جدار رملي يبلغ طوله 5 أمتار، مصنوع من أكياس الرمل، ويوفر ساترًا يحتمي خلفه الجنود من نيران الأسلحة الخفيفة. المتطلبات والقيود: 
 
-* Must be placed within 200m of a FOB / hideout and at least 200m away from the team's CO-Post and 50m away from Vehicle Depot.
-* 2 large supply crates must be within 200m.
-* A maximum of 9 other foxholes, sandbags or segments of razor wire are within 200m and on that FOB.
-* The team can have up to 60 foxholes, sandbag-walls, segments of razor wire in total.
+* يجب نشره على بُعد 200 متر أو أقل من قاعدة عمليات أمامية (FOB) أو مخبأ (Hideout)، وأن يبعد 200 متر على الأقل عن موقع القائد العام، و50 مترًا على الأقل عن مستودع المركبات.
+* يجب وجود صندوقي إمداد ثقيلين ضمن 200 متر منه.
+* يُسمح بوجود 9 عناصر أخرى كحد أقصى من خنادق الرماية أو الجدران الرملية أو مقاطع الأسلاك الشائكة الحلزونية ضمن 200 متر وتابعة لقاعدة العمليات الأمامية (FOB) نفسها.
+* يمكن للفريق امتلاك 60 عنصرًا كحد أقصى من خنادق الرماية والجدران الرملية ومقاطع الأسلاك الشائكة الحلزونية مجتمعة.
 
 {% figure "../assets/sandbagwall.png" %}
 {% endfigure %}
 
-**Razor wire:** A 10m wide road block of razor wire and tank traps. Requirements and limitations:
+**الأسلاك الشائكة الحلزونية (Razor Wire)**: حاجز بعرض 10 أمتار يتكون من أسلاك شائكة حلزونية وعوائق مضادة للدبابات. المتطلبات والقيود:
 
-* Must be placed within 200m of a FOB / hideout and at least 200m away from the team's CO-Post and 50m away from Vehicle Depot.
-* 2 large supply crates must be within 200m.
-* A maximum of 9 other foxholes, sandbags or segments of razor wire are within 200m and on that FOB.
-* The team can have up to 60 foxholes, sandbag-walls, segments of razor wires in total.
+* يجب نشره على بُعد 200 متر أو أقل من قاعدة عمليات أمامية (FOB) أو مخبأ (Hideout)، وأن يبعد 200 متر على الأقل عن موقع القائد العام، و50 مترًا على الأقل عن مستودع المركبات.
+* يجب وجود صندوقي إمداد ثقيلين ضمن 200 متر منه.
+* يُسمح بوجود 9 عناصر أخرى كحد أقصى من خنادق الرماية أو الجدران الرملية أو مقاطع الأسلاك الشائكة الحلزونية ضمن 200 متر وتابعة لقاعدة العمليات الأمامية (FOB) نفسها.
+* يمكن للفريق امتلاك 60 عنصرًا كحد أقصى من خنادق الرماية والجدران الرملية ومقاطع الأسلاك الشائكة الحلزونية مجتمعة.
 
 {% figure "../assets/razorwire.png" %}
 {% endfigure %}
 
-**Roadblock \(unconventional forces\):** A 5m or 10m \(right or left click\) wide road block of garbage. Requirements and limitations:
+حاجز طريق (للفصائل غير النظامية): حاجز لإغلاق الطريق مصنوع من الركام والمخلفات، بعرض 5 أو 10 أمتار (باستخدام زر الفأرة الأيمن أو الأيسر). المتطلبات والقيود:
 
-* Must be placed 200m away from the team's CO-Post and 50m away from Vehicle Depot.
-* A maximum of 9 other roadblocks, razorwires, foxholes and sandbags can be within 200m.
-* The team can have up to 100 roadblocks in total.
+*يجب نشره على بُعد 200 متر على الأقل من موقع القائد العام، و50 مترًا على الأقل عن مستودع المركبات.
+* سمح بوجود 9 عناصر كحد أقصى من الحواجز الطرقية أو الأسلاك الشائكة الحلزونية أو خنادق الرماية أو الجدران الرملية ضمن 200 متر.
+* يمكن للفريق امتلاك 100 حاجز طريقي كحد أقصى.
 
 {% figure "../assets/roadblock.png" %}
 {% endfigure %}
