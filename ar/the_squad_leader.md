@@ -34,24 +34,24 @@
 
 تم تجهيز كت قائد الفرقة (Squad Leader) وكت المراقب (Spotter) المستخدمة من قبل القوات النظامية بـ **محدد الأهداف الليزري الأرضي (GLTD)**. تتمتع هذه القطعة من المعدات بتقريب أفضل من المناظير العادية، وتحتوي على محدد مسافات وتسمح لك بتعليم أهداف العدو ليتم استهدافها بقنابل أو صواريخ الوحدات الجوية الصديقة (والمعادية!).
 
-With the GLTD equipped, you can right-click to increase the zoom level and left-click to toggle the on/off state. While on, the GLTD will emit a laze, that you **must** keep on your target until the bomb/missile hits it \(unlike previous versions where the laze would "stick" to the target even without line of sight\).
+عند تجهيز محدد الأهداف الليزري الأرضي (GLTD)، يمكنك النقر بزر الفأرة الأيمن للتبديل بين مستويات التكبير، وبزر الفأرة الأيسر لتشغيله أو إيقاف تشغيله. عند تشغيله، سيُسلِّط شعاعًا ليزريًا على الهدف، **ويجب** عليك إبقاء الشعاع مسلطًا على الهدف حتى تصيبه القنبلة أو الصاروخ. (على عكس الإصدارات السابقة، حيث كان شعاع الليزر يبقى مثبتًا على الهدف حتى مع فقدان خط الرؤية. 
 
-Additionally, while the lase is ON, you can access the main radio menu \(Q\) to request close air support \(CAS\) or call fire mortar missions. Doing so will automatically transmit a text message to your team detailing the request and add a target marker to the map.
+بالإضافة إلى ذلك، أثناء تشغيل شعاع الليزر، يمكنك فتح قائمة الاتصال الرئيسية **(Q)** لطلب الإسناد الجوي القريب أو طلب مهمة قصف بالهاون. وعند القيام بذلك، ستُرسل تلقائيًا رسالة نصية إلى فريقك توضح تفاصيل الطلب، كما ستُضاف علامة الهدف إلى الخريطة.
 
-## _Rally Points_ {#rally-points}
+## _نقاط التجمع_ {#rally-points}
 
-A Squad Leader has the ability to set **Rally Points \(RP\)**. This allows fallen squad members to regroup in a safe area with the rest of their squad. To place a RP you need to press **the secondary radio key \(T\)** and select **PLACE RALLY POINT**.
+يستطيع قائد الفرقة إنشاء **نقطة تجمع (Rally Point)**، مما يتيح لأفراد فرقته الذين أُقصوا من القتال إعادة الظهور والتجمع في موقع آمن مع بقية أفراد الفرقة. لإنشاء نقطة تجمع، اضغط زر **الراديو الثانوي (T)، ثم اختر PLACE RALLY POINT.**
 
-The following conditions must be met for the RP to be placed successfully:
+لكي يتم إنشاء نقطة التجمع بنجاح، يجب استيفاء الشروط التالية:
 
-* You are the leader of your squad and are equipped with the officer kit.
-* You need to have 2 squad members close to you.
-* Enemy is further than 50m away on 1x1km maps or 125m on 2x2km and 4x4km maps.
+* أن تكون قائد الفرقة ومجهزًا بكت ال Officer.
+* أن يكون بجوارك فردان من أفراد فرقتك.
+* ألا يوجد أي عدو على بُعد أقل من 50 مترًا في خرائط 1×1 كم، أو أقل من 125 مترًا في خرائط 2×2 كم و4×4 كم.
 
-The rally point automatically disappears after 60 seconds unless:
+تختفي نقطة التجمع تلقائيًا بعد 60 ثانية، إلا إذا تحقق أحد الشرطين التاليين:
 
-* It is within 2x large map grid squares of a friendly FOB
-* It is within 2x large map grid squares of a friendly APC or IFV. Only those of which you can request kits from.
+* أن تكون ضمن مسافة تعادل مربعين كبيرين من شبكة الخريطة من قاعدة عمليات أمامية (FOB) صديقة
+* أن تكون ضمن مسافة تعادل مربعين كبيرين من شبكة الخريطة من ناقلة جنود مدرعة (APC) أو مركبة قتال مشاة (IFV) صديقة، بشرط أن تكون من المركبات التي تتيح طلب الكت.
 
 An enemy that comes within 50m on 1x1km maps or 125m on 2x2km and 4x4km maps from the rally point will disable it. On larger maps it is 600m.
 
