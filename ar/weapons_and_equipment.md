@@ -105,13 +105,13 @@
 
 > _الكتات: Smoke Grenade: most kits \| Signal Smoke: Officer, conventional forces Sniper, Pilot_
 
-![cuserswouterdesktop21.png](../assets/cuserswouterdesktop21.png)**Binoculars** allow soldiers to spot distant enemies and identify unknown contacts. Officers and cell leaders can also use their binoculars to request mortar strikes. **The ground laser target designator** \(GLTD\) is used to mark targets for engagement by friendly aircraft and mortar sites.
+![cuserswouterdesktop21.png](../assets/cuserswouterdesktop21.png)**المناظير** تُمكّن الجنود من رصد الأعداء البعيدين والتعرف على الأهداف غير المعروفة. كما يستطيع الضباط وقادة الخلايا استخدام مناظيرهم لطلب ضربات الهاون. أما محدد الأهداف الليزري الأرضي (GLTD) فيُستخدم لتعيين الأهداف كي تستهدفها الطائرات الصديقة أو مرابض الهاون.
 
-> _Kits: Binoculars: Crewman, Sniper and most kits on unconventional factions \| GLTD: Officer and Spotter for conventional forces_
+> _الكتات: Binoculars: Crewman, Sniper and most kits on unconventional factions \| GLTD: Officer and Spotter for conventional forces_
 
-![cuserswouterdesktop22.png](../assets/cuserswouterdesktop22.png)**Radios and Cellphones** are used to report hostile contacts to the rest of the team. They can also be used by squad leaders to request support from other units and to place deployable structures.
+![cuserswouterdesktop22.png](../assets/cuserswouterdesktop22.png)**أجهزة الراديو والهواتف** المحمولة تُستخدم للإبلاغ عن مواقع الأعداء إلى بقية أفراد الفريق. كما يمكن لقادة الفرق استخدامها لطلب الدعم من الوحدات الأخرى ولنشر المنشآت القابلة للبناء.
 
-> _Kits: Officer, Cell Leader, Spotter, Civilian_
+> _الكتات: Officer, Cell Leader, Spotter, Civilian_
 
 ![cuserswouterdesktop23.png](../assets/cuserswouterdesktop23.png)**The Grappling Hook** is used to traverse over walls, buildings or to gain access to the top of structures to allow key squad member to have height advantage. After the hook has successfully attached itself to a surface, any player can accend up the rope by pressing the “enter/exit” key \(default: E\) and moving forward to climb and backwards to slide down the rope. They remain in position for 3 minutes and can be retrieved by the player using the pickup kit key \(default: G\). If you get incapaciated while climbing a rope - you will die, and not be reviveable \(much like climbing a ladder\).
 
