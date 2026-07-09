@@ -44,15 +44,15 @@
 
 > _الكتات: Machine Gunner_
 
-![cuserswouterdesktop10.png](../assets/cuserswouterdesktop10.png)**Fragmentation grenades** have a large blast radius but they are not accurate when thrown whilst moving or jumping and their range is relatively short. It takes about 5 seconds until they detonate. Some grenades like the RGO and RKG grenades explode on impact. The RKG is also an example of a grenade meant for usage against vehicles. To warn your allies before throwing a grenade you can use the main radio key \(default: Q\) while holding the grenade to shout out a warning, or alternatively use mumble. Pressing Right Mouse Button with a grenade in your hand will drop it at your feet \(use with care\), while holding down the button will let you aim it \(use above your thumb as a reference\) and letting go of RMB will throw the grenade as usual.
+![cuserswouterdesktop10.png](../assets/cuserswouterdesktop10.png)**تتميز القنابل اليدوية الشظوية** بنصف قطر انفجار كبير، لكن تقل دقة رميها عند الحركة أو القفز، كما أن مدى رميها قصير نسبيًا. وتستغرق حوالي 5 ثوانٍ قبل أن تنفجر. وبعض القنابل، مثل RGO وRKG، تنفجر بمجرد الاصطدام. وتُعد RKG مثالًا على قنبلة مخصصة لمهاجمة المركبات. لتحذير زملائك قبل رمي القنبلة، يمكنك الضغط على زر قائمة الراديو الرئيسية (الزر الافتراضي: Q) أثناء حملها، ليطلق شخصيتك نداءً تحذيريًا، أو يمكنك استخدام Mumble للتنبيه صوتيًا. يؤدي الضغط على زر الفأرة الأيمن (RMB) أثناء حمل القنبلة إلى إسقاطها عند قدميك (استخدم هذه الميزة بحذر)، بينما يؤدي الاستمرار بالضغط على الزر إلى تجهيز زاوية الرمي (يمكنك استخدام إبهام الشخصية كمرجع للتصويب)، وعند إفلات زر الفأرة الأيمن تُرمى القنبلة بالطريقة المعتادة.
 
-Unconventional forces can use stones, which only cause minor injuries when striking a player but several hits can still be lethal. 
+يمكن للفصائل غير النظامية رمي الحجارة. ورغم أنها لا تسبب سوى ضررًا بسيطًا عند الإصابة، فإن تلقي عدة إصابات متتالية بها قد يكون قاتلًا. 
 
-> _Kits: Grenades: most Infantry kits, especially Officers and Riflemen_ \| _stone: civilian and several insurgents_
+> _الكتات: Grenades: most Infantry kits, especially Officers and Riflemen_ \| _stone: civilian and several insurgents_
 
-![cuserswouterdesktop11.png](../assets/cuserswouterdesktop11.png)**Knifes & Bayonets** are instantly lethal if they strike the enemy. Enemy insurgent combatants killed by knife counts as an arrest. Unarmed melee attacks take about 5 hits to kill an enemy.
+![cuserswouterdesktop11.png](../assets/cuserswouterdesktop11.png)**السكاكين والحراب** تقتل العدو على الفور عند إصابته بها. ويُحتسب قتل المقاتلين المتمردين بالسكين على أنه اعتقال. أما القتال بالأيدي (بدون سلاح)، فيتطلب حوالي خمس ضربات للقضاء على العدو.
 
-> _Kits: Armed Melee: all except for Pilot, Civilian and Unarmed \| Unarmed Melee: Pilot and Unarmed_
+> _الكتات: Armed Melee: all except for Pilot, Civilian and Unarmed \| Unarmed Melee: Pilot and Unarmed_
 
 ![cuserswouterdesktop12.png](../assets/cuserswouterdesktop12.png)**Light anti-tank launchers \(LAT\)** are used against unarmored and lightly armored targets. They are not effective against medium or heavy armor. It takes some time for the launcher to be set up for firing when switching to it, and they take time to settle after movement as well. Many launchers are using iron sights with the option to be adjustable. To adjust, press and hold the main commo-rose key\(default: Q\), then select the range via left-click [\(see Altering Sighting Range\)](weapons_and_equipment.md#altering-sighting-range). Other launchers are provided with an optic sight with working range marks instead and thus do not require being sighted in. Finally, a small group of systems use a scope but have to be sighted prior to launch. When engaging targets between the set ranges, you can manually compensate the angle of attack by either elevating your aim or de-elevating to maintain an effective hit on target.
 
