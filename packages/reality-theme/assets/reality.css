@@ -238,7 +238,6 @@ html[lang="ar"] .book-body-content table th {
 html[lang="ar"] .reality-book-summary a,
 html[lang="ar"] .reality-book-summary li.header {
     font-size: 15px !important;
-    /* تقدر تغير الرقم ده زي ما تحب */
     font-family: 'Segoe UI', Tahoma, Arial, sans-serif !important;
 }
 
