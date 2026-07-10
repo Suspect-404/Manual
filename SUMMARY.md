@@ -8,7 +8,7 @@
     * [ألأساسيات](ar/the_basics.md)
     * [الأسلحة والمعدات](ar/weapons_and_equipment.md)
     * [الكتات](ar/kits.md)
-    * [ثائد الفرقة](ar/the_squad_leader.md)
+    * [قائد الفرقة](ar/the_squad_leader.md)
     * [قيادة المركبات](ar/operating_vehicles.md)
     * [القائد العام](ar/commander.md)
     * [المدني](ar/the_civilian.md)
