@@ -12,7 +12,7 @@
     * [تشغيل المركبات](ar/operating_vehicles.md)
     * [القائد العام](ar/commander.md)
     * [المدني](ar/the_civilian.md)
-    * [أيكونات المركبات](ar/vehicle_icons.md) 
+    * [أيقونات المركبات](ar/vehicle_icons.md) 
 * [English - v1.8](en/README.md)
     * [Set-Up](en/set-up.md)
     * [Game Modes](en/game_modes.md)
